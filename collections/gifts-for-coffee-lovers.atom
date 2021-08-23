@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/gifts-for-coffee-lovers.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2020-12-04T16:25:32-06:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+    <published>2020-12-04T16:25:32-06:00</published>
+    <updated>2020-12-04T16:25:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/12-month-pre-paid-coffee-subscription"/>
+    <title>12 Month Pre-Paid Coffee Subscription</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/12-MonthPre-PaidSub.png?v=1607120489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            205.00 - 400.00
+            <a href="https://www.rossstreetroasting.com/products/12-month-pre-paid-coffee-subscription">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of Good Coffee for an entire year, to someone special or yourself! Select the subscription type, bag size, and grind style - and you're set.</p>
+<h3>Benefits of a 12 Month Pre-Paid Coffee Subscription</h3>
+<ul>
+<li>20% discount off retail price</li>
+<li>Shipping included in cost</li>
+<li>First 3 months Ship <em>FREE!</em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+    <published>2020-12-04T16:16:15-06:00</published>
+    <updated>2020-12-04T16:16:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/6-month-pre-paid-coffee-subscription"/>
+    <title>6 Month Pre-Paid Coffee Subscription</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/6-MonthPre-PaidSub.png?v=1607119100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            110.00 - 210.00
+            <a href="https://www.rossstreetroasting.com/products/6-month-pre-paid-coffee-subscription">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of Good Coffee for 6 whole months, to someone you love or to yourself! Select the subscription type, bag size, and grind style - and you're set.</p>
+<h3>Benefits of a 6 Month Pre-Paid Subscription</h3>
+<ul>
+<li>15% discount off retail price of most coffees</li>
+<li>Shipping included in cost</li>
+<li>First 2 months Ship <em>FREE!</em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+    <published>2020-10-09T16:18:44-05:00</published>
+    <updated>2020-10-09T16:18:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/gold-mountain-sample-flight-direct-relationship-nicaraguan-coffees"/>
+    <title>Gold Mountain Sample Flight - 3 Direct Relationship Nicaraguan Coffees</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_flight_Nicaragua2_900x900_8ff4b634-c459-440a-be69-e88b03676bee.jpg?v=1602278086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Bundle &amp; Save! </h3>
+<p>Sample all 3 of our direct relationship Nicaraguan coffees from Gold Mountain Coffee Growers. This is our longest-term coffee sourcing partner, and we're proud to have built such a strong relationship with them that's included multiple trips to their farms and processing facilities. </p>
+<h3>Included in the flight</h3>
+<ul>
+<li>
+<strong><a title="Roger &amp; Isabel's Fruit Symphony - Nicaraguan single farm light roast coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast">Roger &amp; Isabel's Fruit Symphony</a></strong> - This single farm, natural process coffee packs an incredibly sweet flavor profile! </li>
+<li>
+<a title="Sweet Honey Ross - Honey-Processed Single Farm Nicaraguan Coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/sweet-honey-ross-finca-idealista-nicaragua"><strong>Sweet Honey Ross</strong></a> - A honey-processed coffee from a single farm: Finca Idealista, the farm where our tree frog mascot (Ross) hails from. Mango &amp; Apple, Sweet &amp; Smooth</li>
+<li>
+<a title="Nicaragua Divine Inspiration - Light-Medium Roast" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/nicaragua-divine-inspiration-direct-trade-coffee"><strong>Divine Inspiration</strong></a> - Our year-round offering, with coffees sourced from multiple smallholder farms in the Jinotega region just north of Matagalpa. An easy drinker that belies a delicious well-balanced blend of fruit &amp; chocolate notes</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Ground (Medium/Drip coffee makers)</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4352363167876</id>
+    <published>2019-11-07T09:22:04-06:00</published>
+    <updated>2019-11-07T09:22:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/33-cups-of-coffee-pocket-coffee-tasting-journal"/>
+    <title>33 Cups of Coffee - Pocket Coffee-Tasting Journal</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>33 Books Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/33-cups-of-coffee.jpg?v=1573141406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>33 Books Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xE6rrMgOTow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h3>
+<h3>Benefits of the 33 Cups of Coffee tasting journal</h3>
+<ul>
+<li>Fine-tune your coffee tasting skills - Become a super taster! </li>
+<li>Recount memorable cups of coffee with coffee friends long after the coffee is gone</li>
+<li>Portable journal that slips right into your pocket or satchel</li>
+<li>Designed for ease and speed of use - Taking notes and scoring are a breeze</li>
+<li>Eco-friendly production</li>
+</ul>
+<p>33 Cups of Coffee is a coffee journal that provides an easy way to quickly record coffee tasting notes in a small, convenient notebook format. It's perfect for coffee aficionados, geeks, nerds, layabouts and other fans of the roaster's art.</p>
+<p>This coffee journal is designed for ease of use. It’s tough to hold a notepad in one hand, a pencil in the other, and have another hand left for your cup. Taking notes with 33 Cups of Coffee is as simple as checking a few boxes and entering a few basic facts.</p>
+<p>33 Cups of Coffee is made with 100% recycled papers sourced in the Pacific Northwest. Interior pages are 100% post-consumer recycled content and covers are 85% post-consumer recycled content and 15% recycled content. The booklets are printed using US-grown soy-based inks in Portland, Oregon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4352363167876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>33COCPCJ</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1572298457124</id>
+    <published>2019-08-28T17:42:20-05:00</published>
+    <updated>2019-08-28T17:42:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-coffee-mug-12oz-coffee-bag-gift-bundle"/>
+    <title>10oz RSR Mug + Roaster&apos;s Choice 12oz Coffee Bag - Bundle &amp; Save 10%</title>
+    <s:type>Gift Bundle</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/mug-bag-bundle-all.jpg?v=1567033774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Gift Bundle<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What better way to enjoy awesome RSR coffee than in an awesome RSR diner mug? These sturdy diner mugs are dishwasher safe, and feel great in your hand. No joke: Mug colors can psychologically enhance your experience of flavor, so when paired with delicious RSR coffee, get ready for a journey to Flavor Town! </p>
+<p>"Roaster's Choice" coffees will be somewhat randomly selected and will change from month to month, though they will be from our <a href="/collections/single-origin-coffee" title="Single Origin Coffee collection">Single Origin Coffee</a> selection.</p>
+<h3>Benefits of this Mug+Coffee Gift Bundle</h3>
+<ul>
+<li>Save 10% when you buy this bundle! </li>
+<li>These mugs are heavy-duty, and have a good heft to them, and will also do a good job of retaining heat</li>
+<li>Surprise your coffee lover with our Roaster's Choice selection from a stellar lineup of Single Origin coffees</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1572298457124</id>
+      <title>Green / Whole Bean</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>GRER1DMRC1B-WB</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1572298457124</id>
+      <title>Green / Ground (Medium/Drip coffee makers)</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>GRER1DMRC1B-DR</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1572298457124</id>
+      <title>Orange / Whole Bean</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>ORAR1DMRC1B-WB</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1572298457124</id>
+      <title>Orange / Ground (Medium/Drip coffee makers)</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>ORAR1DMRC1B-DR</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/382920785956</id>
+    <published>2017-11-23T09:23:36-06:00</published>
+    <updated>2017-11-23T09:23:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/flight-of-fancy-single-origin-coffees-four-5oz-bags"/>
+    <title>Flight of Fancy: Single Origin coffees, Four 5oz bags</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_flight_single_origin_900x900_05afcfb6-7e46-4017-be5a-4223bea97b4a.jpg?v=1546320051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>For the coffee adventurer: Taste the diversity of fine specialty coffees from around the globe.</span></p>
+<h3><span>The Flight of Fancy at a glance<br></span></h3>
+<ul>
+<li>Four 5oz bags (totaling 1.25 lbs) of our select <a href="https://www.rossstreetroasting.com/collections/single-origins" title="Single Origin Coffees from Ross Street Roasting Co.">Single Origin Coffees</a>
+</li>
+<li>Flight usually includes 1 or 2 of our <a href="https://www.rossstreetroasting.com/collections/direct-trade" title="Direct Trade Coffees from Ross Street Roasting Co.">Direct Trade Coffees</a>
+</li>
+<li>Coffee selections change regularly (every 1-2 months)</li>
+<li>Roast color/level tends to be Light to Light-Medium</li>
+<li>"Single Origin" always refers to at least a single growing country, but can sometimes contain coffees from multiple regions, a single region with multiple farms, or sometimes even down to a single farm!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/382920785956</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>FLIOFW-WB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/382920785956</id>
+      <title>Ground/Drip</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>FLIOFW-DR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/375563321380</id>
+    <published>2017-11-15T15:41:29-06:00</published>
+    <updated>2017-11-15T15:41:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/sample-flight-blends"/>
+    <title>Sample Flight: Blends - Three 5oz sample bags</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_flight_blends_900x900_47446b95-609a-4547-928e-89c1937dcf1a.jpg?v=1546320713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Three 5oz sample bags of our flagship coffee blends that span the roast spectrum from light to dark. If you're a first-time customer and want to taste the spectrum of what we offer for blends, this is for you. It also makes for a perfect gift!</p>
+<p>Blends include:</p>
+<ul>
+<li>Meow That's What I Call Light Roast! (Light)</li>
+<li>Jack's Feed Store (Medium)</li>
+<li>Bohemian Gothic (Dark)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/375563321380</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>SAMFBWB-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/375563321380</id>
+      <title>Ground/Drip</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>SAMFBWB-DR</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/375563321380</id>
+      <title>French Press</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>SAMFBWB-FP</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/286744150046</id>
+    <published>2017-10-30T16:41:34-05:00</published>
+    <updated>2017-10-30T16:41:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/3-month-pre-paid-coffee-subscription"/>
+    <title>3 Month Pre-Paid Coffee Subscription</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/3-MonthPre-PaidSub.png?v=1607118456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            55.00 - 100.00
+            <a href="https://www.rossstreetroasting.com/products/3-month-pre-paid-coffee-subscription">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of Good Coffee for 3 months, to someone special or yourself! Select the subscription type, bag size, and grind style - and you're set.</p>
+<h3>Benefits of 3 Month Pre-Paid Subscription</h3>
+<ul>
+<li>10% discount off the retail price of most coffees</li>
+<li>Cost includes shipping</li>
+<li>1st month Ships <em>FREE</em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 12oz / Whole Bean</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ROACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ROACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ROACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>ROACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 2lb / Whole Bean</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>ROACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>ROACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>ROACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>ROACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 12oz / Whole Bean</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>AFRCS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>AFRCS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>AFRCS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>AFRCS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 2lb / Whole Bean</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AFRCS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AFRCS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AFRCS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>African Coffees / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>AFRCS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 12oz / Whole Bean</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>TOUDACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>TOUDACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>TOUDACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>TOUDACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 2lb / Whole Bean</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>TOUDACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>TOUDACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>TOUDACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/286744150046</id>
+      <title>Tour de Americas / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>TOUDACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/263162953758</id>
+    <published>2017-10-27T11:06:31-05:00</published>
+    <updated>2017-10-27T11:06:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/online-gift-card"/>
+    <title>The Gift of Good Coffee - Ross Street Roasting Co. Online Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_gift_cards_graphic_900x900_71a51b8b-8206-42ba-b03a-fc22623909a9.jpg?v=1546875421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://www.rossstreetroasting.com/products/online-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The coffee lover in your life deserves to drink the Good Stuff. Pricing options reflect the cost of each of our bag sizes including shipping: 12oz, 2lb, &amp; 5lb. Or show some serious love with the $100 option.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>
+<strong>Online/Digital cards</strong> - Rather than a physical gift card, a promo code will be emailed to you upon the purchase of the gift card.</li>
+<li>
+<strong>Buying for someone?</strong> - If you are buying this product as a gift for someone else, you will need to either forward the email with the promo/gift code to that person, or print it off and give it to them.</li>
+<li>
+<strong>Holding balances</strong> - If your first purchase using the gift card is less than the balance on the card, it will hold that balance until your next purchase.</li>
+<li>
+<strong>Not just coffee!</strong> - The online gift cards work with <span style="text-decoration: underline;">all</span> products on the Ross Street Roasting website, such as shirts and mugs.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift cards</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/263162953758</id>
+      <title>$10.00</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GIFT-CARD-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/263162953758</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GIFT-CARD-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/263162953758</id>
+      <title>$40.00</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>GIFT-CARD-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/263162953758</id>
+      <title>$75.00</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>GIFT-CARD-75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/263162953758</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>GIFT-CARD-100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

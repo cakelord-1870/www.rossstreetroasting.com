@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/loose-leaf-tea.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2021-07-10T09:29:27-05:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859559469238</id>
+    <published>2021-07-10T09:29:27-05:00</published>
+    <updated>2021-07-10T09:29:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/caramel-pecan-puerh-rooibos-blended-tea-loose-leaf-3oz-bag"/>
+    <title>Caramel Pecan Pu&apos;erh + Rooibos Blended Tea, Loose Leaf, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Caramel-Pecan.jpg?v=1625927368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black Tea (Pu'erh style), Rooibos Tea, Almond pieces, Apple pieces, Cocoa nibs, Cinnamon, Dark Chocolate Chips, Chicory, Marigold flowers</span><br></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859559469238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CARPP</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859555831990</id>
+    <published>2021-07-10T09:24:44-05:00</published>
+    <updated>2021-07-10T09:24:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/tea-cellar-white-chai-tea-loose-leaf-2-5oz-bag"/>
+    <title>Tea Cellar White Chai Tea, Loose Leaf, 2.5oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-white-chai.jpg?v=1625927085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: White Tea, Ginger, Lemongrass, Cinnamon, Pineapple pieces, Coconut, Cloves, Cardamom, Apple pieces, Red peppercorn, Natural cinnamon flavor</span></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859555831990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>TEACWCT</s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859551604918</id>
+    <published>2021-07-10T09:19:00-05:00</published>
+    <updated>2021-07-10T09:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/blueberry-buzz-black-tea"/>
+    <title>Blueberry Buzz Black Tea, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Blueberry-Buzz.jpg?v=1625926741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black tea, Cornflower petals, Blackberry leaves, &amp; Natural flavors</span></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859551604918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BLUBBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859549212854</id>
+    <published>2021-07-10T09:15:24-05:00</published>
+    <updated>2021-07-10T09:15:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/orange-spice-black-tea"/>
+    <title>Orange Spice Black Tea, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Orange-Spice.jpg?v=1625926525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black Tea, Cinnamon, Orange pieces, Natural flavors</span></p>
+<p>Sourced from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859549212854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ORASBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4518972326020</id>
+    <published>2020-01-31T08:25:45-06:00</published>
+    <updated>2020-01-31T08:25:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/earl-grey-tea-loose-leaf-3oz-bag"/>
+    <title>Earl Grey Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Earl-Grey.jpg?v=1580480820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An unbelievable aroma comes with this solid Earl Grey. An English classic.<br><br><strong>Ingredients:</strong> Black tea, cornflower petals, natural flavors (organic compliant)</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4518972326020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>EARGT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4518908362884</id>
+    <published>2020-01-31T08:14:07-06:00</published>
+    <updated>2020-01-31T08:14:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/tea-cellar-green-tea-loose-leaf-3oz-bag"/>
+    <title>Tea Cellar Green Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-green.jpg?v=1580480164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea Cellar Green tea is a Dragonwell tea; it is a pan-roasted tea produced in the Longjing Village in the Zhejiang Province of China. Pan-firing is a perfected art among Chinese tea masters and the result is a nearly-sweet flavor with hints of chestnuts. No added flavors.</p>
+<p><strong>Ingredients</strong>: Green tea</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4518908362884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>TEACG</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4375791140996</id>
+    <published>2019-11-26T08:18:25-06:00</published>
+    <updated>2019-11-26T08:18:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/on-the-waterfront-herbal-tea-loose-leaf-3oz-bag"/>
+    <title>On The Waterfront - Herbal Tea, Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PeachesCream_b63c8b63-8566-4a6c-a144-4bf0e737e5bd.jpg?v=1574777906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An herbal symphony with delicious peppermint and spearmint notes and a touch of ginger and rose hips. It’s the perfect combination to help wind down after a long day. “Refreshing” is an understatement.<br><br><strong>Ingredients:</strong> Peppermint + spearmint leaves, rosehip pieces, ginger, rooibos, rose + sunflower + calendula + osmanthus petals</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4375791140996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ONTWHT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4375790190724</id>
+    <published>2019-11-26T08:10:07-06:00</published>
+    <updated>2019-11-26T08:10:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/english-breakfast-black-tea-loose-leaf-3oz-bag"/>
+    <title>English Breakfast Black Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PineappleMango_378f5bba-c6b4-44f3-ac6e-8c7041ab8222.jpg?v=1574777409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Full-bodied and rich, this robust black tea is perfect in the morning or with cream and sugar in the afternoon.</p>
+<p><strong>Ingredients:</strong> Black tea from Sri Lanka, Kenya, &amp; India</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4375790190724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ENGBBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112214229124</id>
+    <published>2019-09-19T14:21:02-05:00</published>
+    <updated>2019-09-19T14:21:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/wild-cherry-herbal-tea-loose-leaf-caffeine-free-3oz-bag"/>
+    <title>Wild Cherry Herbal Tea - Loose Leaf, Caffeine Free, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-WildCherry.jpg?v=1568921048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A classically delicious fruit tea composition of hibiscus blossoms and rose hips, enhanced by plump sour cherries.</p>
+<p><strong>Ingredients</strong>​: Apple pieces, rose hips, hibiscus blossoms, flavor, sour cherry pieces and jasmine blossoms.</p>
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112214229124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>WILCHT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112213540996</id>
+    <published>2019-09-19T14:11:28-05:00</published>
+    <updated>2019-09-19T14:11:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/pineapple-mango-black-tea-loose-leaf-3oz-bag"/>
+    <title>Pineapple Mango Black Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PineappleMango.jpg?v=1568920644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two of the tropic’s finest offerings: tart pineapple and sweet mango. What a winning combination!</p>
+<p><strong>Ingredients</strong>: Black tea from India; pineapple pieces; mango pieces; sunflower blossoms; rose blossoms; mallow blossoms; and flavor.</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112213540996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PINMBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112208167044</id>
+    <published>2019-09-19T13:51:17-05:00</published>
+    <updated>2019-09-19T13:51:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/peaches-cream-green-tea-loose-leaf-3oz-bag"/>
+    <title>Peaches &amp; Cream Green Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PeachesCream.jpg?v=1568919187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mouthwatering peaches and velvety vanilla deliver a smooth cup that is full-bodied and sweet.</p>
+<p><strong>Ingredients:</strong> Green tea from China, Japan, and India; peach pieces; sunflower blossoms; and flavor.</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112208167044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PEACGT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112206299268</id>
+    <published>2019-09-19T13:32:32-05:00</published>
+    <updated>2019-09-19T13:32:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/bohemian-raspberry-green-tea-loose-leaf-3oz-bag"/>
+    <title>Bohemian Raspberry Green Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-BohemianRaspberry.jpg?v=1568917992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green tea made naturally sweeter with plump, sweet raspberry pieces. Be prepared for a smooth cup of green tea!</p>
+<p><strong>Ingredients</strong>: Green tea, raspberry pieces, natural flavors</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112206299268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BOHRGT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112204955780</id>
+    <published>2019-09-19T13:21:04-05:00</published>
+    <updated>2019-09-19T13:21:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/cream-caramel-decaf-black-tea-loose-leaf-caffeine-free-3oz-bag"/>
+    <title>Cream Caramel DECAF Black Tea - Loose Leaf, Caffeine Free, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-Decaf-CreamCaramel.jpg?v=1568917279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Intense, sweet caramel and smooth cream blend together for a caffeine-free, guilt-free experience you will want to savor again and again.</span></p>
+<p><span><strong>Ingredients:</strong> Decaffeinated black tea, caramel bits and flavor.</span></p>
+<meta charset="utf-8">
+<p><span><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112204955780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CRECDBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112202006660</id>
+    <published>2019-09-19T12:29:27-05:00</published>
+    <updated>2019-09-19T12:29:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/honey-almond-herbal-tea-loose-leaf-caffeine-free-3oz-bag"/>
+    <title>Honey Almond Herbal Tea - Loose Leaf, Caffeine Free, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-HoneyAlmond.jpg?v=1568915612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This sweet-tasting herbal takes everyone by surprise!  Caffeine-free, it makes a perfect evening tea. It’s a “go to” tea to blend with so many others—if you’re so inclined. (This tea contains nuts.)</span></p>
+<p><span><strong>Ingredients: </strong>Honeybush tea, almond bits, natural flavor, white cornflower blossoms, and marigold.</span></p>
+<meta charset="utf-8">
+<p><span><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112202006660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>HONAH</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

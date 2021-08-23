@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/coffee-and-tea.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2021-08-04T21:50:08-05:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+    <published>2021-08-04T21:50:08-05:00</published>
+    <updated>2021-08-04T21:50:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/kathias-legacy-woman-producer-costa-rican-specialty-coffee"/>
+    <title>Kathia&apos;s Legacy - Woman Producer, Costa Rican Specialty Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_KathiasLegacy_900x900_3b20f8ca-5963-43ae-b463-abc71a65f55e.png?v=1628129427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            8.00 - 79.00
+            <a href="https://www.rossstreetroasting.com/products/kathias-legacy-woman-producer-costa-rican-specialty-coffee">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Cloza Estate <meta charset="utf-8"><span data-mce-fragment="1">is a 4th-Generation family farming and micro mill operation</span> run by Kathia Zamora, <meta charset="utf-8"><span data-mce-fragment="1">under the watchful eye of her parents. Cloza is a</span> Women Care Certified (a Certification developed by The International Women Coffee Alliance/Costa Rica) to empower women within the coffee value chain. Her coffee is also Carbon Footprint Friendly, as she participates in the <a title="Nama Coffee Programme - Participating Mills" href="https://www.namacafe.org/en/participating-coffee-mills" target="_blank">Nama Coffee Programme</a>.</p>
+<h3>About Kathia's Legacy</h3>
+<ul>
+<li>Flavor notes: Spiced Apple, Caramel, Raisin</li>
+<li>Roast level: Light-Medium</li>
+<li>Farm: Coza Estate</li>
+<li>Farmer: Kathia Zamora</li>
+<li>Location: Rosario de Naranjo and San Isidro de Alajuela, Costa Rica</li>
+<li>Farm size: 38 hectares (94 acres)</li>
+<li>Altitude: 1100-1350 Masl</li>
+<li>Varieties: Catuai, Villa Sarchi, San Isidro, Victoria</li>
+<li>Process: Honey</li>
+</ul>
+<p>Cloza Estate has been dedicated to growing and processing specialty coffee since 1970. They produce micro-lots in three family plots. <br><br>Kathia, a young mother of two boys, is passionate about honoring her legacy while looking towards the future to ensure her kids fall in love with coffee from a young age, just as she did.<br><br>Kathia has managed the farm since 2001 and has improved the quality of their coffee by planting new varieties and updating facilities and processing techniques.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Costa Rica</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CRKL-WB-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CRKL-DR-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CRKL-FP-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>CRKL-ES-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CRKL-WB-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CRKL-DR-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CRKL-FP-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CRKL-ES-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CRKL-WB-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CRKL-DR-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CRKL-FP-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>CRKL-ES-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CRKL-WB-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CRKL-DR-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CRKL-FP-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6902196371638</id>
+      <title>5oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>CRKL-ES-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859559469238</id>
+    <published>2021-07-10T09:29:27-05:00</published>
+    <updated>2021-07-10T09:29:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/caramel-pecan-puerh-rooibos-blended-tea-loose-leaf-3oz-bag"/>
+    <title>Caramel Pecan Pu&apos;erh + Rooibos Blended Tea, Loose Leaf, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Caramel-Pecan.jpg?v=1625927368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black Tea (Pu'erh style), Rooibos Tea, Almond pieces, Apple pieces, Cocoa nibs, Cinnamon, Dark Chocolate Chips, Chicory, Marigold flowers</span><br></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859559469238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>CARPP</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859555831990</id>
+    <published>2021-07-10T09:24:44-05:00</published>
+    <updated>2021-07-10T09:24:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/tea-cellar-white-chai-tea-loose-leaf-2-5oz-bag"/>
+    <title>Tea Cellar White Chai Tea, Loose Leaf, 2.5oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-white-chai.jpg?v=1625927085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: White Tea, Ginger, Lemongrass, Cinnamon, Pineapple pieces, Coconut, Cloves, Cardamom, Apple pieces, Red peppercorn, Natural cinnamon flavor</span></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859555831990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>TEACWCT</s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859551604918</id>
+    <published>2021-07-10T09:19:00-05:00</published>
+    <updated>2021-07-10T09:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/blueberry-buzz-black-tea"/>
+    <title>Blueberry Buzz Black Tea, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Blueberry-Buzz.jpg?v=1625926741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black tea, Cornflower petals, Blackberry leaves, &amp; Natural flavors</span></p>
+<p>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859551604918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BLUBBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6859549212854</id>
+    <published>2021-07-10T09:15:24-05:00</published>
+    <updated>2021-07-10T09:15:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/orange-spice-black-tea"/>
+    <title>Orange Spice Black Tea, 3oz bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-Orange-Spice.jpg?v=1625926525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Black Tea, Cinnamon, Orange pieces, Natural flavors</span></p>
+<p>Sourced from our friends at The Tea Cellar in Cedar Falls, Iowa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6859549212854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ORASBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/401844863012</id>
+    <published>2021-07-05T22:37:31-05:00</published>
+    <updated>2021-07-05T22:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/the-stumbling-monkey-whiskey-barrel-aged-ethiopian-coffee"/>
+    <title>The Stumbling Monkey - Whiskey Barrel-Aged Ethiopian Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR-Bag-StumblingMonkey-12OZ.png?v=1625542424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            8.50 - 41.00
+            <a href="https://www.rossstreetroasting.com/products/the-stumbling-monkey-whiskey-barrel-aged-ethiopian-coffee">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>July 2021 Release is SOLD OUT</strong> - All orders for Stumbling Monkey will be held until the barrel is emptied &amp; roasting begins on July 22nd.</p>
+<p><strong></strong><strong>Spirit &amp; Barrel:</strong><span> Henry McKenna Kentucky Bourbon - Heaven Hill Distillery, Bardstown, KY; American oak barrel</span></p>
+<p><strong>Beer aged after the spirit</strong>, prior to coffee: Big Boi Vanilla Party (Imperial Stout), <a href="https://www.gezelligbrewing.com/" title="Gezellig Brewing Co., Newton, Iowa" target="_blank">Gezellig Brewing Co.</a>, Newton, Iowa</p>
+<p>Unroasted coffee beans are aged 4-8 weeks prior to roasting</p>
+<p><strong>Coffee Info</strong></p>
+<ul>
+<li>Tasting notes: Vanilla, chocolate, boozy notes balanced with toffee, cocoa, a sweet and a smooth mouthfeel</li>
+<li>Origin: Ethiopia, Harrar region</li>
+<li>Farms: Multiple smallholder farms in the region</li>
+<li>Tree varieties: Heirloom varieties</li>
+<li>Processing method: Natural process</li>
+</ul>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/46sMyCN7fNA" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barrel-aged coffee</s:tag>
+    <s:tag>Ethiopia</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>THESMBCC-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>THESMBCC-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>THESMBCC-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>THESMBCC-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>THESMBCC-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>THESMBCC-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>THESMBCC-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>THESMBCC-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>THESMBCC-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>THESMBCC-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/401844863012</id>
+      <title>5oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>THESMBCC-FP-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+    <published>2021-07-05T22:03:49-05:00</published>
+    <updated>2021-07-05T22:03:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/el-salvador-ricardos-passion-pacamara"/>
+    <title>Ricardo&apos;s Passion Pacamara - Natural Process El Salvador Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR-Bag-ElSal-RicardosPassion-12OZ.png?v=1625540072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            8.50 - 85.00
+            <a href="https://www.rossstreetroasting.com/products/el-salvador-ricardos-passion-pacamara">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finca Buenos Aires is owned by Ricardo Kriete, a 4th generation coffee producer. As a boy growing up on Finca El Rosario, the farm his family-owned since1952, Ricardo fell in love with coffee. He dreamed of one day following in the footsteps of his parents and owning El Rosario. His goal: to grow the family business and become a purveyor of high-quality coffee. That dream has become a reality for Ricardo!</p>
+<h3>About Ricardo's Passion Pacamara</h3>
+<ul>
+<li>Notes: Chocolate, Tropical Fruit, Caramel</li>
+<li>Finca Buenos Aires, Santa Ana region, El Salvador<br>
+</li>
+<li>Farmer: Ricardo Kriete</li>
+<li>Variety: Pacamara</li>
+<li>Processing: Natural</li>
+<li>Harvest: Oct 2020 - Mar 2021, landed June 2021 (aka FRESH)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>El Salvador</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>RICPP-WB-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>12oz / Drip</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>RICPP-DR-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>12oz / French Press</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>RICPP-FP-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>12oz / Espresso</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>RICPP-ES-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>RICPP-WB-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>2lb / Drip</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>RICPP-DR-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>2lb / French Press</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>RICPP-FP-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>2lb / Espresso</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>RICPP-ES-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RICPP-WB-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5lb / Drip</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RICPP-DR-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5lb / French Press</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RICPP-FP-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5lb / Espresso</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RICPP-ES-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>RICPP-WB-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6814849958070</id>
+      <title>5oz / Drip</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>RICPP-DR-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+    <published>2021-05-11T11:34:08-05:00</published>
+    <updated>2021-05-11T11:34:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/cool-it-yo-decaf-colombian-coffee"/>
+    <title>Cool It, Yo! - DECAF Colombian Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_CoolItYo_900x900_f7061f72-dc63-4012-8721-e83b599311fc.png?v=1620223917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.50 - 73.00
+            <a href="https://www.rossstreetroasting.com/products/cool-it-yo-decaf-colombian-coffee">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Need to tone down the caffeine but don't want to sacrifice flavor? COOL IT, YO - You can do that! This Colombia Excelso coffee is taken through the natural Ethyl Acetate (EA) decaffeination process, producing a caffeine-free but flavorful cup of coffee. </p>
+<p> </p>
+<h3>Cool It, Yo! - At a glance</h3>
+<ul>
+<li>Notes: Cocoa, Cherry, Balanced</li>
+<li>Origin &amp; Grade: Colombia Excelso - Macro lot (many coffees from many sources around the country, grouped into a large lot by bean size and quality grade) </li>
+<li>Decaffeination process: Ethyl Acetate (EA) - Read <a href="https://www.cafeimports.com/north-america/blog/ea-decaf/" title="Ethyl Acetate Decaffeination - Cafe Imports" target="_blank">this great explainer</a> from Cafe Imports for more info on the process</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colombia</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DECCIY-WB-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DECCIY-DR-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DECCIY-FP-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DECCIY-ES-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>DECCIY-WB-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>DECCIY-DR-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>DECCIY-FP-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>DECCIY-ES-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>DECCIY-WB-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>DECCIY-DR-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>DECCIY-FP-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>DECCIY-ES-5LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>DECCIY-WB-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6695722942646</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>DECCIY-DR-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+    <published>2021-03-26T16:54:24-05:00</published>
+    <updated>2021-03-26T16:54:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/family-tradition-brazilian-coffee-seibt-family-farm-cerrado-mineiro-region"/>
+    <title>Family Tradition - Brazilian Coffee, Seibt Family Farm, Cerrado Mineiro Region</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_FamilyTradition_900x900_2af7b671-ecdb-4f71-8214-b75a816693a1.png?v=1615214871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/family-tradition-brazilian-coffee-seibt-family-farm-cerrado-mineiro-region">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">About Seibt Family Farm's Coffee</span><br>
+<ul>
+<li>Roast level: Medium-Dark</li>
+<li>Origin: Seibt Family Farm, Cerrado Mineiro Region, Brazil</li>
+<li>Elevation: 900 masl / 3000 ft</li>
+<li>Sourcing partner: Ga<span data-mce-fragment="1">ú</span>cha Specialty Coffee, West Des Moines, Iowa</li>
+</ul>
+<p>Caroline Seibt grew up a second-generation farmer in Minas Gerais, southeastern Brazil. Her father, Rogério, started In addition to corn, soybeans, dairy, and beef, Caroline's father Rogério started growing coffee. Matthew Kruse grew up an Iowa farm boy whose father got into international ag commodities trading during the US farm crisis in the 1980s, which got his family involved in business in Brazil.</p>
+<p>Years later, Caroline's &amp; Matthew's paths crossed and they started a life together, eventually splitting time between their respective homes and family business interests in Brazil &amp; Iowa.</p>
+<p>Caroline had a dream to bring her family's coffee directly to the United States market, and Gaúcha Specialty Coffee was born. Since they live part-time in Iowa and Iowa is a small place, it wasn't long before Matthew reached out to our founder Brian and the RSR-Ga<meta charset="utf-8"><span data-mce-fragment="1">ú</span>cha partnership began to take shape, resulting in this single origin, direct relationship offering.</p>
+<p>RSR is located in a rural, agricultural area, working in the global agricultural trade of specialty coffee, so we're proud to offer this direct relationship coffee that's the result of combined family farming traditions that span a hemisphere.</p>
+<p>In addition to this single origin offering, this coffee appears in multiple blends in our product lineup!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-WB-12OZ</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BRAFTSFF-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BRAFTSFF-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+    <published>2020-12-04T16:25:32-06:00</published>
+    <updated>2020-12-04T16:25:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/12-month-pre-paid-coffee-subscription"/>
+    <title>12 Month Pre-Paid Coffee Subscription</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/12-MonthPre-PaidSub.png?v=1607120489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            205.00 - 400.00
+            <a href="https://www.rossstreetroasting.com/products/12-month-pre-paid-coffee-subscription">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of Good Coffee for an entire year, to someone special or yourself! Select the subscription type, bag size, and grind style - and you're set.</p>
+<h3>Benefits of a 12 Month Pre-Paid Coffee Subscription</h3>
+<ul>
+<li>20% discount off retail price</li>
+<li>Shipping included in cost</li>
+<li>First 3 months Ship <em>FREE!</em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>ROACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>ROACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>AFRCS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>African Coffees / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>AFRCS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Whole Bean</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>TOUDACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Whole Bean</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124678152374</id>
+      <title>Tour de Americas / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TOUDACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+    <published>2020-12-04T16:16:15-06:00</published>
+    <updated>2020-12-04T16:16:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/6-month-pre-paid-coffee-subscription"/>
+    <title>6 Month Pre-Paid Coffee Subscription</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/6-MonthPre-PaidSub.png?v=1607119100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            110.00 - 210.00
+            <a href="https://www.rossstreetroasting.com/products/6-month-pre-paid-coffee-subscription">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of Good Coffee for 6 whole months, to someone you love or to yourself! Select the subscription type, bag size, and grind style - and you're set.</p>
+<h3>Benefits of a 6 Month Pre-Paid Subscription</h3>
+<ul>
+<li>15% discount off retail price of most coffees</li>
+<li>Shipping included in cost</li>
+<li>First 2 months Ship <em>FREE!</em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>ROACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Roaster&apos;s Choice / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>ROACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>AFRCS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>African Coffees / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>AFRCS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Whole Bean</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-WB-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (Drip/Medium)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-DR-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-FP-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 12oz / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>TOUDACS-ES-12OZ</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Whole Bean</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-WB-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (Drip/Medium)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-DR-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (French Press/Coarse)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-FP-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6124677497014</id>
+      <title>Tour de Americas / 2lb / Ground (Espresso/Fine)</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>TOUDACS-ES-2LB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+    <published>2020-10-09T16:18:44-05:00</published>
+    <updated>2020-10-09T16:18:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/gold-mountain-sample-flight-direct-relationship-nicaraguan-coffees"/>
+    <title>Gold Mountain Sample Flight - 3 Direct Relationship Nicaraguan Coffees</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_flight_Nicaragua2_900x900_8ff4b634-c459-440a-be69-e88b03676bee.jpg?v=1602278086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Bundle &amp; Save! </h3>
+<p>Sample all 3 of our direct relationship Nicaraguan coffees from Gold Mountain Coffee Growers. This is our longest-term coffee sourcing partner, and we're proud to have built such a strong relationship with them that's included multiple trips to their farms and processing facilities. </p>
+<h3>Included in the flight</h3>
+<ul>
+<li>
+<strong><a title="Roger &amp; Isabel's Fruit Symphony - Nicaraguan single farm light roast coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast">Roger &amp; Isabel's Fruit Symphony</a></strong> - This single farm, natural process coffee packs an incredibly sweet flavor profile! </li>
+<li>
+<a title="Sweet Honey Ross - Honey-Processed Single Farm Nicaraguan Coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/sweet-honey-ross-finca-idealista-nicaragua"><strong>Sweet Honey Ross</strong></a> - A honey-processed coffee from a single farm: Finca Idealista, the farm where our tree frog mascot (Ross) hails from. Mango &amp; Apple, Sweet &amp; Smooth</li>
+<li>
+<a title="Nicaragua Divine Inspiration - Light-Medium Roast" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/nicaragua-divine-inspiration-direct-trade-coffee"><strong>Divine Inspiration</strong></a> - Our year-round offering, with coffees sourced from multiple smallholder farms in the Jinotega region just north of Matagalpa. An easy drinker that belies a delicious well-balanced blend of fruit &amp; chocolate notes</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Ground (Medium/Drip coffee makers)</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+    <published>2020-10-09T16:13:56-05:00</published>
+    <updated>2020-10-09T16:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast"/>
+    <title>Roger &amp; Isabel&apos;s Fruity Symphony - Single Farm Nicaraguan Light Roast</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_FruitSymphony_900x900_5c5ed394-9776-45df-92d2-065c7126a93a.png?v=1602277303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            9.90 - 94.50
+            <a href="https://www.rossstreetroasting.com/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This delightful single-farm coffee is referred to as "tutty fruity" by the matriarch of the farm's owners, Dońa Isabel. Here's why...<br></p>
+<h3>About Roger &amp; Isabel's Fruit Symphony</h3>
+<ul>
+<li>Tasting notes: Pineapple, mango, guava, &amp; honey</li>
+<li>Origin: Nicaragua, Matagalpa region</li>
+<li>Farm: Don Roger &amp; Dońa Isabel</li>
+<li>Elevation: 1330 masl (~4,360 ft)</li>
+<li>Tree varieties: Caturra, Bourbon, Pache, Javanica, Geisha</li>
+<li>Processing method: Natural / Dry</li>
+<li>Harvest Season: December - February</li>
+<li>Current harvest: 2020-21, Arrived in US Sept. 2019</li>
+<li>Sourcing: <a title="Gold Mountain Coffee Growers - Direct Trade Specialty Coffee from Nicaragua" href="https://www.goldmountaincoffeegrowers.com/" target="_blank" data-mce-href="https://www.goldmountaincoffeegrowers.com/">Gold Mountain Coffee Growers</a> (Direct Trade)</li>
+</ul>
+<h3>About the Farm</h3>
+<p><meta charset="utf-8"><span>Don Roger has a </span><span>degree in agronomy and he loves sharing </span><span>technical knowledge and tips with visiting </span><span>roasters. Their farm has a clean water source </span><span>that supplies the community below with </span><span>drinking water. Further, the farm has a special </span><span>system of PVC tubing with tiny perforations </span><span>underneath the groves of trees so that runoff </span><span>from washing coffee is filtered by the earth </span><span>instead of polluting streams. They use special </span><span>pruning techniques, training their Bourbon next </span><span>to their plot of Caturra.</span></p>
+<h3><span>About Gold Mountain Coffee Growers</span></h3>
+<p><span>GMCG is a social enterprise that, in addition to its own farm (Finca Idealista, home of Sweet Honey Ross), works directly with coffee producers in Nicaragua, including Roger &amp; Isabel, to connect them directly with roasters like us. GMCG is on the ground, all the time, teaming up with producers willing to take the steps necessary to produce high-cupping Specialty Coffee. They stand (literally) on every partner farm during picking season to ensure ripeness with specialized equipment. GMCG also carries out sustainable development projects in communities, such as free computing classes for girls from coffee communities, medical assistance, microcredit, running water in schools, and educational supplies. </span></p>
+<p><span>2020 marks our 6th harvest year purchase from Gold Mountain, and we've visited their lovely area twice since our founding. We are more than proud and thrilled to bring this incredibly unique "direct relationship" coffee to our customers and coffee lovers. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICRIFS-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICRIFS-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/9296792656</id>
+    <published>2020-10-06T08:35:45-05:00</published>
+    <updated>2020-10-06T08:35:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/sweet-honey-ross-finca-idealista-nicaragua"/>
+    <title>Sweet Honey Ross - Single Farm Direct Relationship Light Roast Nicaraguan Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_SweetHoneyRoss_900x900_b381c3c6-3fbe-437b-9f4f-fe04c398ab0a.jpg?v=1571327016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            9.90 - 94.50
+            <a href="https://www.rossstreetroasting.com/products/sweet-honey-ross-finca-idealista-nicaragua">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Rbir3tJebA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h3>
+<h3>"Mango, Apple, Sweet &amp; Smooth"</h3>
+<p><strong>Ross</strong> is the name of the frog mascot in our logo, and the original photo that inspired that artwork was taken on the very farm that this coffee hails from: Finca Idealista! So we wanted to honor that storied lineage with a sweet coffee from that farm, and to celebrate the multi-year relationship we have with our longest direct relationship producer, Gold Mountain Coffee Growers.</p>
+<h3>
+<strong></strong>About Sweet Honey Ross</h3>
+<ul>
+<li>Tasting notes: Mango, apple, brown sugar, light-medium body, sweet, easy drinking cup</li>
+<li>Origin: Nicaragua, Matagalpa region</li>
+<li>Farm: Finca Idealista ("Idealist Farm")</li>
+<li>Elevation: 1200 masl (3,937 ft)</li>
+<li>Tree varieties: Caturra</li>
+<li>Processing method: Honey Process</li>
+<li>Harvest Season: December - February</li>
+<li>Current harvest: 2020-21, Arrived in US Sept. 2019</li>
+<li>Sourcing: <a href="http://www.goldmountaincoffeegrowers.com/" title="Gold Mountain Coffee Growers - Nicaragua" target="_blank">Gold Mountain Coffee Growers</a> (Direct Trade)</li>
+</ul>
+<p><strong>Honey Processing</strong> is an alternative method of preparing coffees for export, before they make their way to roasters like us. This process results in a generally sweeter cup of coffee and it's proven to be quite popular with our customers. First offered in our first year of business, we're excited to bring it back again for 2019-20!</p>
+<h3>About the Farm: Finca Idealista</h3>
+<p style="float: right;"><img alt="" src="//cdn.shopify.com/s/files/1/1505/8342/files/gold-mountain-logo_medium.png?v=1516207742" style="float: right;">Finca Idealista is the flagship farm of our Direct Trade partner, <strong>Gold Mountain Coffee Growers</strong>. It sits on a mountaintop that borders a nature reserve, whose trees act as a natural air conditioner for its Paca &amp; Caturra variety coffee beans. This cool microclimate lengthens the coffee cherry maturity process, allowing beans more time to absorb natural sugars and other attributes that contribute to a rounded cup profile.<br><br>Finca Idealista workers receive the <strong>highest wages</strong> around. Local pickers are trained to pick only the reddest cherries so that the farm’s crop reaches its full potential and highest level of sweetness. Extraordinary care is taken, both during wet and dry processing, to inspect all beans and ensure that only the finest, ripest coffee is exported. In addition to washed coffee, the farm has invested in special infrastructure to increase production of natural and honey process coffee, with outstanding cupping results.</p>
+<p>Finca Idealista invests in volcanic filters to <strong>protect the environment</strong> from run-off when coffee is washed. The volcanic material is brought from Masaya, one of Nicaragua’s volcanic regions. Gold Mountain recently purchased an adjacent section of <strong>rainforest</strong> for the sole purpose of protecting its flora and fauna.</p>
+<p>In addition to its focus on quality, Finca Idealista supports the growth and development of the community through <strong>educational supplies</strong> and <strong>running water for schools</strong>, <strong>scholarships</strong> and <strong>medical supplies</strong>, <strong>free computing classes for girls</strong>, and new initiatives based on needs assessment.</p>
+<p>Its partner organization, Gold Mountain Cofffee Growers, LLC, won the 2016 <strong>SCAE Sustainability Award </strong>for joint economic and environmental achievements.</p>
+<p><em>Learn more about <a href="http://www.goldmountaincoffeegrowers.com/" target="_blank">Gold Mountain Coffee Growers</a>/@goldmtncoffee (<a href="https://www.instagram.com/goldmtncoffee/" target="_blank">Instagram</a>, <a href="https://twitter.com/goldmtncoffee" target="_blank">Twitter</a>, <a href="https://www.facebook.com/goldmtncoffee" target="_blank">Facebook</a>)</em></p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Beans</s:tag>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Finca Idealista</s:tag>
+    <s:tag>Honey Process</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICFI-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICFI-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+    <published>2020-07-15T18:33:08-05:00</published>
+    <updated>2020-07-15T18:33:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/land-shark-coffee-lurking-bitey-evolutionary-light-roast"/>
+    <title>Land Shark Coffee - Lurking, Bitey, Evolutionary Light Roast</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_LandShark_900x900_128f3e87-e4d2-40e7-a979-c68e2f97d18b.jpg?v=1594856034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            8.50 - 41.00
+            <a href="https://www.rossstreetroasting.com/products/land-shark-coffee-lurking-bitey-evolutionary-light-roast">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A lurking, bitey, evolutionary light roast for adventurous farmhands.</span></p>
+<h3>About Land Shark Coffee</h3>
+<p>We take coffees from three different countries, roast them separately and uniquely, and then blend them together for a real kick in the Dickies for your cup of coffee. If you're driving the tractor all night trying to get the crops in (or out) or sitting at the kitchen table, Land Shark will be watching...and waiting.</p>
+<ul>
+<li>Notes: Lurking, Bitey, Evolutionary - Okay, okay: It's gonna have a fruity edge, but with a good earthiness to remind you that, yes, you're really drinking coffee</li>
+<li>Coffee origins: Democratic Republic of Congo, Papua New Guinea, &amp; Uganda</li>
+<li>Roast level: Light roast</li>
+</ul>
+<p>The Land Shark blend is another collaboration with <a href="https://www.youtube.com/user/klingpossum" target="_blank" title="Farmer Derek - YouTube Channel" rel="noopener noreferrer">Farmer Derek Klingenberg</a>, goofball extraordinaire. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Farmer Derek</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>ISTHNIC-WB-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>12oz / Ground (Medium/Drip coffee)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>ISTHNIC-DR-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>12oz / Ground (Coarse/French Press or Cold Brew)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>ISTHNIC-FP-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>ISTHNIC-ES-12OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>ISTHNIC-WB-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>2lb / Ground (Medium/Drip coffee)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>ISTHNIC-DR-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>2lb / Ground (Coarse/French Press or Cold Brew)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>ISTHNIC-FP-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>ISTHNIC-ES-2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>ISTHNIC-WB-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5483632394390</id>
+      <title>5oz / Ground (Medium/Drip coffee)</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>ISTHNIC-DR-5OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/417874706468</id>
+    <published>2020-06-05T08:51:22-05:00</published>
+    <updated>2020-06-05T08:51:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/kula-peaberry-papua-new-guinea"/>
+    <title>Kula Peaberry - Papua New Guinea Light-Medium Roast Relationship Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_KulaPeaberry_900x900_0c70132f-e0a0-4c19-a1ff-9b08f7a3b1f6.jpg?v=1561650010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.00 - 72.00
+            <a href="https://www.rossstreetroasting.com/products/kula-peaberry-papua-new-guinea">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3> Kula Peaberry at a glance</h3>
+<ul>
+<li>Benefits:</li>
+<ul>
+<li>Earthy note adds accessibility for "regular coffee drinkers," while also showcasing bolder, fruitier notes</li>
+<li>Direct Trade sourcing benefits producers, farm laborers, and their families &amp; communities (see more below)</li>
+</ul>
+<li>Tasting notes: Sweet aroma, chocolate &amp; raisin/dried fruit notes, earthy, med-heavy body, syrupy mouthfeel</li>
+<li>Roast color: Light-Medium</li>
+<li>Country: Papua New Guinea</li>
+<li>Region: Waghi Valley</li>
+<li>Farm: Sigri Estate</li>
+<li>Tree variety: Predominantly Typica</li>
+<li>Elevation: 1,500-1,600 masl (5,000-5,200 ft)</li>
+<li>Soil type: Volcanic</li>
+<li>Harvest season: April - September</li>
+<li>Current harvest: Arrived in US Fall 2018</li>
+<li>Sourcing: <a href="http://benchmarkcoffeetraders.com/" target="_blank" title="Benchmark Coffee Traders - Papua New Guinea" rel="noopener noreferrer">Benchmark Coffee Traders</a> (Direct Trade)</li>
+</ul>
+<meta charset="utf-8">
+<p>Papua New Guinea is an island nation north of Australia, and positioned at the end of a string of islands coming off the southeastern tip of the Asian continent. PNG has not been well-known for high-quality Specialty Coffee production, but our Direct Trade partner there, Benchmark Coffee Traders, recognized an opportunity to produce higher-end coffees on the Sigri estate that benefit producers by selling into higher-end coffee markets abroad.</p>
+<meta charset="utf-8">
+<p>"Peaberry" is a word that refers to the coffee bean itself - Normally, coffee cherries produce two seeds per cherry. "Peaberries" are so-named due to a genetic mutation where only a single seed grows in the cherry, producing a smaller, rounder, denser coffee seed/bean. If a producer so chooses, peaberries are separated from all the "normal" seeds and sold as a lot. Peaberry beans display slightly different flavor characteristics from beans grown even on the same tree.</p>
+<p>"Kula" refers to the special sorting &amp; processing method used by Benchmark Coffee Traders to ensure a high-quality flavor profile.</p>
+<h3>About Benchmark Coffee Traders</h3>
+<p style="float: right;"><img alt="" src="//cdn.shopify.com/s/files/1/1505/8342/files/benchmark-coffee_medium.jpg?v=1516204304" style="float: right;">Our Direct Trade partner in PNG, Benchmark Coffee Traders, distributes high quality green coffees from the Sigri Estate in Papua New Guinea. They have direct family ties with these coffee producers and work closely with them to bring their beautiful coffees to roasters like us in North America.<br><br>Benchmark supports a strong social agenda that provides <strong>free housing, free healthcare, and free schooling</strong> to the coffee pickers and farmers who work tirelessly to help produce these unique coffees.<br><br>We are proud to be partnering with Benchmark for the first time in 2018, and look forward to a fruitful relationship in the future!</p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Beans</s:tag>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Fresh Coffee Beans</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Papua New Guinea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (Drip/med)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (Espresso/fine)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (Drip/med)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (French Press/coarse)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (Drip/med)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>PAPNGSKP-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>PAPNGSKP-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4518972326020</id>
+    <published>2020-01-31T08:25:45-06:00</published>
+    <updated>2020-01-31T08:25:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/earl-grey-tea-loose-leaf-3oz-bag"/>
+    <title>Earl Grey Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Earl-Grey.jpg?v=1580480820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An unbelievable aroma comes with this solid Earl Grey. An English classic.<br><br><strong>Ingredients:</strong> Black tea, cornflower petals, natural flavors (organic compliant)</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4518972326020</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>EARGT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4518908362884</id>
+    <published>2020-01-31T08:14:07-06:00</published>
+    <updated>2020-01-31T08:14:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/tea-cellar-green-tea-loose-leaf-3oz-bag"/>
+    <title>Tea Cellar Green Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/tea-cellar-green.jpg?v=1580480164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea Cellar Green tea is a Dragonwell tea; it is a pan-roasted tea produced in the Longjing Village in the Zhejiang Province of China. Pan-firing is a perfected art among Chinese tea masters and the result is a nearly-sweet flavor with hints of chestnuts. No added flavors.</p>
+<p><strong>Ingredients</strong>: Green tea</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4518908362884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>TEACG</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+    <published>2019-11-28T08:46:18-06:00</published>
+    <updated>2019-11-28T08:46:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/the-front-40-contemporary-fruit-forward-espresso-roast"/>
+    <title>The Front 40 - Contemporary Fruit-Forward Roast for Espresso</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR-Bag-Front40-12OZ_6d353472-339d-40b2-a6ac-329930dc7cea.jpg?v=1600787034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            15.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/the-front-40-contemporary-fruit-forward-espresso-roast">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Front 40 exhibits a more contemporary (and lighter) roast profile for espresso to highlight fruit notes first, but still maintain enough nuttiness/chocolate for the shot to stand up in milk drinks. Despite what we call a "light-medium" roast color, this roast employs longer development times to even out the consistency of the blend and boost body &amp; sweetness in the cup.</p>
+<h3>The Front 40 at a glance</h3>
+<ul>
+<li>Notes: Tangy fruit, nutty, sweet, medium body</li>
+<li><strong>100% Relationship Coffee components</strong></li>
+<ul>
+<li>50% Papua New Guinea coffee from the Sigri Estate in the Waghi Valley region, farm of our Relationship Coffee partner, Benchmark Coffee Traders</li>
+<li>50% Brazil coffee from the Seibt Family Farm, Cerrado Mineiro region, Minas Gerais state, SE Brazil</li>
+<li><em>Relationship Coffees are close sourcing partnerships with coffee producers, helping ensure high-quality coffee and equitable pay for coffee laborers (<a title="Relationship Coffees at RSR" href="https://www.rossstreetroasting.com/collections/relationship-coffee">See all Relationship Coffees</a>)</em></li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>espresso</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4375791140996</id>
+    <published>2019-11-26T08:18:25-06:00</published>
+    <updated>2019-11-26T08:18:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/on-the-waterfront-herbal-tea-loose-leaf-3oz-bag"/>
+    <title>On The Waterfront - Herbal Tea, Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PeachesCream_b63c8b63-8566-4a6c-a144-4bf0e737e5bd.jpg?v=1574777906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An herbal symphony with delicious peppermint and spearmint notes and a touch of ginger and rose hips. It’s the perfect combination to help wind down after a long day. “Refreshing” is an understatement.<br><br><strong>Ingredients:</strong> Peppermint + spearmint leaves, rosehip pieces, ginger, rooibos, rose + sunflower + calendula + osmanthus petals</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4375791140996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ONTWHT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4375790190724</id>
+    <published>2019-11-26T08:10:07-06:00</published>
+    <updated>2019-11-26T08:10:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/english-breakfast-black-tea-loose-leaf-3oz-bag"/>
+    <title>English Breakfast Black Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PineappleMango_378f5bba-c6b4-44f3-ac6e-8c7041ab8222.jpg?v=1574777409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Full-bodied and rich, this robust black tea is perfect in the morning or with cream and sugar in the afternoon.</p>
+<p><strong>Ingredients:</strong> Black tea from Sri Lanka, Kenya, &amp; India</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4375790190724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>ENGBBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+    <published>2019-09-20T07:32:01-05:00</published>
+    <updated>2019-09-20T07:32:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/oil-derek-farmer-dereks-extra-dark-roast-coffee-blend"/>
+    <title>Oil Derek - Farmer Derek&apos;s Extra Dark Roast Coffee Blend</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_OilDerek_900x900_73f26986-06f0-431e-9c35-c9c4d2ff9820.jpg?v=1568983219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/oil-derek-farmer-dereks-extra-dark-roast-coffee-blend">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An oily dark roast for cowpokes. Perfect for cowboy coffee by the campfire, or long nights in the tractor during harvest season.</p>
+<h3>About Oil Derek</h3>
+<p>Legend has it that cattle rancher and goofball YouTuber, <a href="https://www.youtube.com/user/klingpossum" target="_blank" title="Farmer Derek Klingenberg - YouTube channel" rel="noopener noreferrer">Farmer Derek Klingenberg</a>, was named after the oil derricks that can be seen across his native south central Kansas. So for our first forray into <em>extra</em> dark roast territory, we thought it fitting to play on words a bit with our friend's name. </p>
+<ul>
+<li>Coffee origins: Nicaragua &amp; Papua New Guinea (sourced directly)</li>
+<li>Roast level: Extra Dark / French Roast - Beans have oils plainly visible  on their surface</li>
+<li>Tasting notes: Smoky &amp; rustic - Burnt tumbleweed, Tractor tire, Saddle leather</li>
+</ul>
+<h3>Farmer Derek Klingenberg</h3>
+<p>Derek's family has been ranching and farming in south-central Kansas for a century. About 10 years ago, Derek discovered that he had a talent for making ridiculous farming videos and song parodies and putting them on YouTube. More recently he's become a drone/cow artist and regularly serenades his cattle with his trombone. Some of Derek's videos have gone viral and his top videos have over 30 million combined views.</p>
+<p>We became friends with the Klingenberg family just over a decade ago when Roaster Brian met Derek's younger brother at seminary in Virginia. After graduation, Derek's brother became a pastor but Plain Ol' Brian went on to become Roaster Brian, founder of Ross Street Roasting. This new Farmer Derek coffee is a product of our decade-long relationship that's morphed into a great business partnership.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>OILDFDCL-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>OILDFDCL-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>12oz / Ground (Coarse/French Press or Cold Brew)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>OILDFDCL-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>OILDFDCL-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>OILDFDCL-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>OILDFDCL-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>2lb / Ground (Coarse/French Press or Cold Brew)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>OILDFDCL-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>OILDFDCL-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>OILDFDCL-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>OILDFDCL-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5lb / Ground (Coarse/French Press or Cold Brew)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>OILDFDCL-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>OILDFDCL-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>OILDFDCL-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4113345642628</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>OILDFDCL-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112214229124</id>
+    <published>2019-09-19T14:21:02-05:00</published>
+    <updated>2019-09-19T14:21:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/wild-cherry-herbal-tea-loose-leaf-caffeine-free-3oz-bag"/>
+    <title>Wild Cherry Herbal Tea - Loose Leaf, Caffeine Free, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-WildCherry.jpg?v=1568921048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A classically delicious fruit tea composition of hibiscus blossoms and rose hips, enhanced by plump sour cherries.</p>
+<p><strong>Ingredients</strong>​: Apple pieces, rose hips, hibiscus blossoms, flavor, sour cherry pieces and jasmine blossoms.</p>
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112214229124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>WILCHT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112213540996</id>
+    <published>2019-09-19T14:11:28-05:00</published>
+    <updated>2019-09-19T14:11:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/pineapple-mango-black-tea-loose-leaf-3oz-bag"/>
+    <title>Pineapple Mango Black Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PineappleMango.jpg?v=1568920644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two of the tropic’s finest offerings: tart pineapple and sweet mango. What a winning combination!</p>
+<p><strong>Ingredients</strong>: Black tea from India; pineapple pieces; mango pieces; sunflower blossoms; rose blossoms; mallow blossoms; and flavor.</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112213540996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PINMBT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4112208167044</id>
+    <published>2019-09-19T13:51:17-05:00</published>
+    <updated>2019-09-19T13:51:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/peaches-cream-green-tea-loose-leaf-3oz-bag"/>
+    <title>Peaches &amp; Cream Green Tea - Loose Leaf, 3oz Bag</title>
+    <s:type>Tea</s:type>
+    <s:vendor>The Tea Cellar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/Tea-PeachesCream.jpg?v=1568919187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Tea Cellar<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mouthwatering peaches and velvety vanilla deliver a smooth cup that is full-bodied and sweet.</p>
+<p><strong>Ingredients:</strong> Green tea from China, Japan, and India; peach pieces; sunflower blossoms; and flavor.</p>
+<meta charset="utf-8">
+<p><em>Sourced locally from our friends at The Tea Cellar in Cedar Falls, Iowa.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decaf tea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4112208167044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PEACGT</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

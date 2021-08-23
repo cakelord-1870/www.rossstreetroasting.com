@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/coffee-gear.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2021-01-14T09:03:38-06:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6198161146038</id>
+    <published>2021-01-14T09:03:38-06:00</published>
+    <updated>2021-01-14T09:03:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-14oz-stoneware-mug"/>
+    <title>RSR 14oz Stoneware Mug - 2021 Limited Edition</title>
+    <s:type>RSR Merch</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSRStonewareMug-Blue-900x900.png?v=1610637377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>RSR Merch<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Picture yourself cozied up to a fire with this handcrafted stoneware mug full of fresh-roasted RSR coffee. Mmm MMM! </p>
+<p> </p>
+<h3>Features of the RSR 14oz Stoneware Mug</h3>
+<ul>
+<li>2021 Limited Edition: 25 of each color released; when they're gone they're gone!<br>
+</li>
+<li>Beautiful glaze color options: Night Sky &amp; Royal Green</li>
+<li>RSR frog logo imprinted into the mug</li>
+<li>14oz capacity</li>
+<li>
+<meta charset="utf-8">Approx 1lb in weight - Sturdy! </li>
+<li>Approx 3.5" in height</li>
+<li>Handcrafted, glazed, and fired by Sunset Hill Stoneware in Neenah, Wisconsin<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee mugs</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6198161146038</id>
+      <title>Night Sky</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>RSR1SM-BLU</s:sku>
+      <s:grams>463</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6198161146038</id>
+      <title>Royal Green</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>RSR1SM-GRE</s:sku>
+      <s:grams>463</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6045111386294</id>
+    <published>2020-11-06T08:33:27-06:00</published>
+    <updated>2020-11-06T08:33:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/bonavita-coffee-maker-bv1500ts-5-cup-thermal-carafe-automatic-brewer"/>
+    <title>Bonavita Coffee Maker BV1500TS - 5 Cup Thermal Carafe Automatic Brewer</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Bonavita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/bonavita-bv1500ts-01.jpg?v=1604673095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonavita<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            110.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Need a quick and easy way to make coffee in the morning, but don't want to commit to a huge pot that you probably wouldn't drink all of anyway? The Bonavita BV1500TS 5 cup brewer is a great and compact option!  </p>
+<h3>Features of the BV1500TS 5 Cup Brewer</h3>
+<ul>
+<li>
+<strong>Compact</strong> design and small footprint</li>
+<li>Can brew up to <strong>25 ounces</strong> of coffee per batch</li>
+<li>Stainless steel thermal carafe holds 30 ounces of fluid and will <strong>keep your brews warm for over an hour</strong>
+</li>
+<li>Redesigned showerhead provides <strong>wide and even coverage</strong> of water over the grounds</li>
+<li>Pre-infusion brewing mode helps fresh roasts from RSR de-gas and prevents spillover</li>
+<li>1100 watt heater ensures that the steady shower of water is consistently around 200-203 F</li>
+<li>Seal of certification from the Specialty Coffee Association / SCA</li>
+<li>Uses #4 cone filters</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee brewers</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6045111386294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.49</s:price>
+      <s:sku>BONCMB5CTCAB</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4679173013636</id>
+    <published>2020-03-14T10:17:09-05:00</published>
+    <updated>2020-03-14T10:17:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/aeropress-go-travel-coffee-maker"/>
+    <title>AeroPress Go Travel Coffee Maker</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/aeropress-go-900x900.png?v=1584212631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>The Easiest Path to Becoming a Coffee Snob!</h3>
+<p>Created by legendary inventor Alan Adler - of Aerobie flying disc fame - the AeroPress Go is a great way to ease into becoming a certified coffee snob without breaking the bank! It's a great little device if you're brewing a single serving of coffee at a time, it's <em>fast</em>, and it's portable.</p>
+<p>Here's how it works:</p>
+<p><strong>1. Pressurized Extraction: Quick Brew Times</strong> - The device sits on top of your coffee mug and you simply add ground coffee and hot water (~200ºF works best). You let the ground steep for 30-60 seconds, and then <em>press</em> down on the plunger. In about the same amount of time as it takes for a Keurig to do its job, you've got a cup of coffee with vastly superior flavor and no un-recyclable waste.</p>
+<p><strong>2. It's Flexible: Endless Experimentation!</strong> - In addition to the standard brewing procedure, you can also go "inverted" and turn the AeroPress Go upside down, effectively turning it into an immersion-style brewer like a French Press. In recent years, there have been endless "recipes" cooked up by AeroPress lovers around the world and even world championship AeroPress brewing competitions. We also recommend the very cool <a href="http://aeropresstimer.com/" target="_blank" title="AeroPress Timer app" rel="noopener noreferrer">AeroPress Timer app</a>.</p>
+<p><strong>3. Easy to Clean</strong> - When you're done brewing, simply place the spend grounds and tiny paper filter in the compost or trash. Then with a quick rinse of the 3 plastic pieces of the device, you're all done or ready for another brew. Quick &amp; easy, with very little waste.</p>
+<p><strong>4. It's Portable: Take it Anywhere!</strong> - The entire AeroPress Go kit packs into its own carrying case that doubles as a mug, and is easily packed into your work bag or luggage for trips. As long as you can ensure access to hot water and fresh-roasted coffee from Ross Street Roasting Co., you don't have to suffer crappy coffee when you travel!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AeroPress</s:tag>
+    <s:tag>coffee brewers</s:tag>
+    <s:tag>coffee gear</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4679173013636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>AERGTCP</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4595238568068</id>
+    <published>2020-02-24T09:38:32-06:00</published>
+    <updated>2020-02-24T09:38:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/airscape-2lb-coffee-storage-canister-with-rsr-logo"/>
+    <title>Airscape 2.5 LB Coffee Storage Canister with RSR Logo</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR_Airscape_2LB_Canister-900x900.png?v=1583338773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Most food storage canisters are “airtight”, which means they lock air in with the contents. The Airscape® forces the freshness-destroying air out of the canister, extending the life of your coffee, tea, or any perishable goods for that matter.</span></p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1505/8342/files/rsr-airscappe-irl_240x240.gif?v=1583339128" alt="" style="float: none;"></div>
+<p><br><span>Designed of durable galvanized steel, the Airscape® Kilo canister body resists staining and odor retention. The BPA-free clear, top lid allows you to see how much is left in the container, and the inner Airscape® lid (also BPA-free) makes a fun “swooshing” noise as its pushed down, so you can actually hear it working. The Airscape® Kilo comes is 100% food-safe, lead-free and non-toxic. And the RSR logo on the outside lets everyone know what awesomeness lies inside!</span></p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1505/8342/files/Airscape-Kilo-Diagram.png?v=1582562948" style="float: none;" width="480"></div>
+<p><span>The Airscape® Kilo holds a full kilogram of coffee beans, or re-fill it with:<br></span></p>
+<ul>
+<li><span>2.5lb coffee beans</span></li>
+<li><span>5lb flour</span></li>
+<li><span>5lb brown sugar</span></li>
+<li><span>2.5lb granola</span></li>
+<li><span>3lb oats</span></li>
+<li><span>7.5lb popcorn kernels</span></li>
+<li>and so much more!</li>
+</ul>
+<p><span>Measures: 6.5″w x 8″ h</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee storage</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4595238568068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>AIR2CSCWRL</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4374542516356</id>
+    <published>2019-11-26T12:07:02-06:00</published>
+    <updated>2019-11-26T12:07:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/smart-brew-coffee-scale-with-timer-rsr-logo"/>
+    <title>Smart Brew Coffee Scale with Timer &amp; RSR Logo</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/smartbrew-scale-timer-1.jpg?v=1574806650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Smart Brew Coffee Scale from Brewista is the go-to scale without all the bells and whistles, and sports the RSR logo etched into the surface!</p>
+<h4>The Smart Brew Coffee Scale at a glance</h4>
+<ul>
+<li>Clean design</li>
+<li>Built-in timer that counts up to 9 minutes, 59 seconds</li>
+<li>The large stainless steel platform accommodates any standard portafilter and wipes clean with a soft cloth</li>
+<li>Accurately measure in 0.1 gram increments up to 1000 grams, 1.0 gram increments from 1000 grams to the maximum capacity of 2000 grams (70 ounces)</li>
+<li>Powered by two AAA batteries (included)</li>
+</ul>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/foXZbRCaaQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><a href="https://www.rossstreetroasting.com/blogs/roasters-blog/how-to-use-a-scale-for-brewing-coffee" title="How to use a scale for brewing coffee"><em>Blog: How to use a scale for brewing</em></a><br></p>
+<h4>To operate</h4>
+<ul>
+<li>Press the UNIT button to switch between grams and ounces</li>
+<li>Large digits are easy to read on the backlit LCD which includes a battery level indicator</li>
+<li>Should the need arise, the Brewista Smart Brew Scale can be re-calibrated</li>
+<li>The Auto-Off feature prevents unnecessary battery draining by shutting down after 5 minutes of inactivity </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee gear</s:tag>
+    <s:tag>scales</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4374542516356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SMABCSWTRL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4352363167876</id>
+    <published>2019-11-07T09:22:04-06:00</published>
+    <updated>2019-11-07T09:22:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/33-cups-of-coffee-pocket-coffee-tasting-journal"/>
+    <title>33 Cups of Coffee - Pocket Coffee-Tasting Journal</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>33 Books Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/33-cups-of-coffee.jpg?v=1573141406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>33 Books Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/xE6rrMgOTow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h3>
+<h3>Benefits of the 33 Cups of Coffee tasting journal</h3>
+<ul>
+<li>Fine-tune your coffee tasting skills - Become a super taster! </li>
+<li>Recount memorable cups of coffee with coffee friends long after the coffee is gone</li>
+<li>Portable journal that slips right into your pocket or satchel</li>
+<li>Designed for ease and speed of use - Taking notes and scoring are a breeze</li>
+<li>Eco-friendly production</li>
+</ul>
+<p>33 Cups of Coffee is a coffee journal that provides an easy way to quickly record coffee tasting notes in a small, convenient notebook format. It's perfect for coffee aficionados, geeks, nerds, layabouts and other fans of the roaster's art.</p>
+<p>This coffee journal is designed for ease of use. It’s tough to hold a notepad in one hand, a pencil in the other, and have another hand left for your cup. Taking notes with 33 Cups of Coffee is as simple as checking a few boxes and entering a few basic facts.</p>
+<p>33 Cups of Coffee is made with 100% recycled papers sourced in the Pacific Northwest. Interior pages are 100% post-consumer recycled content and covers are 85% post-consumer recycled content and 15% recycled content. The booklets are printed using US-grown soy-based inks in Portland, Oregon.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4352363167876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>33COCPCJ</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1510455410724</id>
+    <published>2019-08-09T13:35:52-05:00</published>
+    <updated>2019-08-09T13:35:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/cold-brew-coffee-maker-with-flip-cap-lid-2-quart"/>
+    <title>Cold Brew Coffee Maker with Flip Cap Lid - 2 Quart</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/0_main_no_coffee_filter_out_2_grande_5662bb2e-3cc6-4560-903a-0543f53bef7d.jpg?v=1564860492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3></h3>
+<h3>Benefits of the 2 Quart Cold Brew Coffee Maker</h3>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"><strong>Effortlessly make delicious cold brew</strong> with the amazing cold brewer from County Line Kitchen. Simply add coffee, steep overnight and drink. Clean up is quick and simple and all components are dishwasher safe.</span></li>
+<li><em>READ: Our blog post on <a href="https://www.rossstreetroasting.com/blogs/roasters-blog/making-great-cold-brew-coffee-at-home" title="Making Great Cold Brew Coffee at Home article">Making Great Cold Brew Coffee at Home</a></em></li>
+<li><span class="a-list-item"><strong>High quality, stainless steel filter</strong> - The filter mesh is super fine to prevent grounds from entering the coffee. The heavy duty mesh in their filters will last a lifetime. Their rolled and folded seam eliminates any sharp edges.</span></li>
+<li><span class="a-list-item"><strong>High quality, durable flip cap lid</strong> - The flip cap lid allows you to brew, pour and store your coffee with ease! The cap lips open and stays open to allow you to pour out your brew. The high quality seal means you will never have a leak!</span></li>
+<li><span class="a-list-item"><strong>Ball Mason Jars</strong> are made to last and built to withstand the canning process. There is no need to worry about breaking your jar, this heavy duty jar can withstand rough handling. The inert soda lime glass also won’t leach harmful chemicals into your brew.</span></li>
+<li><span class="a-list-item">You can also <strong>brew tea</strong> and the brewer makes a great infuser too! Infuse water with your favorite fruits or infuse oils with spices or other flavorings! Our brewer’s components are all made BPA free and made of food grade, FDA compliant glass, stainless steel and plastic.</span></li>
+<li><span class="a-list-item"><em>See <a href="https://www.rossstreetroasting.com/collections/loose-leaf-tea" title="Loose Leaf Tea from The Tea Cellar">our great selection of <strong>Loose Leaf Teas</strong></a></em></span></li>
+</ul>
+<p><span class="a-list-item">Check out <a href="https://www.rossstreetroasting.com/blogs/roasters-blog/making-great-cold-brew-coffee-at-home" title="Making Great Cold Brew Coffee at Home - Roaster's Blog"><strong>The RSR Guide to Making Great Cold Brew Coffee at Home</strong></a> for more info!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee brewers</s:tag>
+    <s:tag>cold brew</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1510455410724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>COLBCMWFCL2Q</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1401330925604</id>
+    <published>2019-06-12T11:18:23-05:00</published>
+    <updated>2019-06-12T11:18:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/third-wave-water-12-one-gallon-sticks-classic-profile"/>
+    <title>Third Wave Water: 12 One Gallon Sticks (Classic Profile)</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/third-wave-water-2.png?v=1560372007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Take your home coffee making game to the next level by conditioning your water specifically for coffee brewing! Start with 1 gallon of Distilled or Reverse Osmosis-filtered water, then add a stick of Third Wave Water and stir briefly. Finally, brew awesome coffee! </p>
+<p><img src="//cdn.shopify.com/s/files/1/1505/8342/files/TWW_Infographic_large.png?v=1560446038" alt="" style="display: block; margin-left: auto; margin-right: auto;"><br> </p>
+<h3>Benefits of Third Wave Water</h3>
+<ul>
+<li>Elevates flavors, perceived sweetness, and cup clarity for coffee</li>
+<li>All natural, no chemicals! </li>
+<li>Gentler on electric coffee makers, extend the life of your equipment</li>
+<li>Classic Profile works great for Manual/Pour Over brew methods of Electric Drip coffee makers</li>
+<li>12 pack will produce 12 gallons of awesome water for coffee for about 128 12oz cups, adding only about $0.11 to your cup of coffee - Small price to pay for more awesome-tasting coffee!</li>
+</ul>
+<p>Roaster Brian here: I'll be honest, when I first heard about this product I thought it was a load of marketing BS. But then I heard the creator interviewed on a coffee podcast, and it was clear the guy know his way around water chemistry, and he also owns and operates a roastery/café. So I bought a sample pack and did my first pour-over brew with it, and I haven't turned back. The difference is flavor just by switching over to TWW is noticeable and awesome. I'm a believer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee gear</s:tag>
+    <s:tag>water treatment</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1401330925604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>THIWW1OGSCP</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+    <published>2019-05-23T07:43:29-05:00</published>
+    <updated>2019-05-23T07:43:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-10oz-ceramic-diner-mug"/>
+    <title>RSR 10oz Ceramic Diner Mug</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr-mugs-all-white-bg.jpg?v=1559739986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Put that great-tasting RSR coffee in a great-looking RSR diner mug! These mugs are sturdy as all get-out, and their vibrant colors really pop right alongside the amazing flavors inside the cup.</p>
+<p><strong>RSR Diner Mug at a Glance</strong></p>
+<ul>
+<li>3 vibrant colors: Blue, Green, Orange</li>
+<li>Sturdy, commercial-grade ceramic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee gear</s:tag>
+    <s:tag>coffee mugs</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Green</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-GRE</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Blue</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-BLU</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Orange</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-ORA</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/409507233828</id>
+    <published>2018-12-28T11:50:13-06:00</published>
+    <updated>2018-12-28T11:50:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/baratza-encore-electric-conical-burr-grinder"/>
+    <title>Baratza Encore - Electric Conical Burr Grinder</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/baratza-encore-1.jpg?v=1573672348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long considered the best entry-level electric burr grinder on the market! Perfect for coffee lovers who have just taken the plunge into multiple brewing devices for the home.</p>
+<p>If you're brewing on an electric drip brewer and also starting to explore manual brew methods such as the <a href="https://www.rossstreetroasting.com/collections/merchandise/products/aeropress-single-serve-manual-brewer">AeroPress</a>, having a burr grinder that can vary grind particle size (fine/coarse) is <em>essential</em>. </p>
+<p>And if you're consistently brewing for more than one person, then a hand-grinder becomes too much work. Enter the electric Baratza Encore! You'll get the flexibility and quality of a burr grinder with the convenience of an electric. Plus, you can rest easy with Baratza's legendary reputation for quality support and service for your machine!</p>
+<h3>Limited 1 Year Manufacturer Warranty</h3>
+<p>This warranty covers all defects in materials or workmanship (parts and labor) including free ground transportation to and from our repair facility within US and Canada. This warranty does not apply to: improper use, lack of cleaning, abuse, normal wear and tear, lack of proper adjustment, foreign objects (stones, screws, etc.) in the beans, or uses outside the intended use of grinding whole roasted coffee beans.</p>
+<p>When possible, Baratza works directly with you, the customer, to solve the problem. You can email problem requests to <strong>support@baratza.com</strong>. Often they can solve the problem over email or phone, which means you can have a solution immediately. If they cannot easily solve the problem, Baratza will deliver an identical or comparable replacement to the customer’s door, free of charge, along with a prepaid shipping label for the return of the “failed” grinder.</p>
+<p>If you return the grinder to the reseller - Ross Street Roasting Co. - they will check the grinder so see if the problem can be resolved quickly. If it cannot, we will give you a replacement grinder and Baratza will send you a replacement with a return tag for the “failed” grinder. Please make sure the grinder is within the one year warranty period.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/409507233828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>BAREECBG</s:sku>
+      <s:grams>3357</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/402852610084</id>
+    <published>2017-12-09T08:22:20-06:00</published>
+    <updated>2017-12-09T08:22:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/handground-grinder"/>
+    <title>Handground - Precision Manual Burr Grinder (Plus FREE 5oz bag of RSR coffee)</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/handground-black_ac657755-0479-4998-98e4-0d9454846620.jpg?v=1605188772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<span style="text-decoration: underline;">FREE</span> 5oz bag of RSR whole bean coffee included!</h3>
+<p style="align: center;"><iframe src="https://www.youtube.com/embed/-5vpbQLE_9k" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<h3>The Roaster Brian-approved Hand Grinder</h3>
+<p>The Handground coffee grinder started as a Kickstarter project in 2016. Roaster Brian was an early backer of the project and received his from the first production run in early 2017. It has been improved even more since the first batches and this grinder has a huge advantage over other sub-$100 hand grinders on a number of fronts:</p>
+<p><strong>1. Ease of Grinding</strong> - The crank for this grinder is vertical and side-mounted, making for an easier, smoother hand-cranking experience. The grinder's wide base also has a sticky rubber pad on the bottom that makes it easy to push down on your countertop while cranking. Other small hand grinders often involve a "hold and dance" action while grinding.</p>
+<p><strong>2. Precision Grinding</strong> - The fineness/coarseness settings for the Handground are easily accessible on the outside of the grinder, with the numbered dial around the middle. If you're brewing for multiple devices (drip coffee, pour-over, espresso, cold brew), it is crucial that you have this level of control. Blade grinders simply don't allow you to control this variable at all, and other lower-cost hand-grinders are not as easy to adjust.</p>
+<p><strong>3. Sturdiness</strong> - The Handground is <em>big</em> and sturdy. It's a hefty, durable device that's built to last. </p>
+<p>It's true that there are cheaper hand grinders out there (there are also more expensive ones!), but for grinding for 1-2 people at home, the Handground is easily Roaster Brian's #1 recommended grinder.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee gear</s:tag>
+    <s:tag>coffee grinders</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/402852610084</id>
+      <title>Black</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>HANB5B-WB</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+</feed>

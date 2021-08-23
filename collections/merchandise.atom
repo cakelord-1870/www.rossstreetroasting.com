@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/merchandise.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2020-12-02T12:13:05-06:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+    <published>2020-12-02T12:13:05-06:00</published>
+    <updated>2020-12-02T12:13:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-logo-womens-racerback-tank"/>
+    <title>RSR Logo - Women&apos;s Racerback Tank</title>
+    <s:type></s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/womens-racerback-tank-top-vintage-royal-5fc7d91bce32e.jpg?v=1606932772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rep RSR at the yoga studio or gym! This racerback tank is soft, lightweight, and form-fitting with a flattering cut and raw edge seams for an edgy touch.<br>
+<br>
+• 50% polyester/25% combed ring-spun cotton/25% rayon<br>
+• Fabric weight: 4.2 oz (142 g/m2)<br>
+• Raw edge seams<br>
+• Fabric is laundered to reduce shrinkage<p><strong class="size-guide-title">Size guide</strong></p><div class="table-responsive dynamic" data-unit-system="imperial"><table cellpadding="5"><tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+</tr>
+<tr>
+<td><strong>Length (inches)</strong></td>
+<td>25 ⅞</td>
+<td>26 ½</td>
+<td>27 ⅛</td>
+<td>27 ¾</td>
+<td>28 ⅜</td>
+</tr>
+<tr>
+<td><strong>Width (inches)</strong></td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19 ½</td>
+</tr>
+</tbody></table></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Black / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6651</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Black / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6652</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Black / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6653</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Black / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6654</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Black / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6655</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Indigo / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6626</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Indigo / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6627</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Indigo / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6628</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Indigo / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6629</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Indigo / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6630</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Purple Rush / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6641</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Purple Rush / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6642</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Purple Rush / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6643</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Purple Rush / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6644</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Purple Rush / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6645</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Red / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6666</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Red / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6667</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Red / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6668</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Red / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6669</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Red / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6670</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Royal / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6671</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Royal / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6672</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Royal / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6673</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Royal / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6674</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Royal / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6675</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Envy / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6616</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Envy / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6617</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Envy / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6618</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Envy / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6619</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Envy / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6620</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Turquoise / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6681</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Turquoise / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6682</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Turquoise / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6683</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Turquoise / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6684</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6120007172278</id>
+      <title>Vintage Turquoise / XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>7659020_6685</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1527661166628</id>
+    <published>2019-08-09T11:23:51-05:00</published>
+    <updated>2019-08-09T11:23:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/iowacoffee-framed-poster"/>
+    <title>#iowacoffee Framed Poster</title>
+    <s:type></s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/mockup-1d15ac03.jpg?v=1565367828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00 - 39.00
+            <a href="https://www.rossstreetroasting.com/products/iowacoffee-framed-poster">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ross Street Roasting is part of an awesome specialty coffee community in Iowa, and we're proud of our home state. Other specialty roasters and cafes across Iowa use this state outline+hashtag on social media to get connected, organized, and support each other. This poster with the outline+hashtag uses a photo from Roaster Brian's family farm in rural Jasper County, Iowa, taken during the magical Golden Hour.<br> <br> Show your #iowacoffee love in any room with this framed poster printed on high quality paper, with a partly glossy, partly matte finish.<br> <br> • Alder, semi-hardwood frame<br> • Black color<br> • .75” thick<br> • Acrylite front protector<br> • Hanging hardware included</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1527661166628</id>
+      <title>10×10</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>4784833</s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1527661166628</id>
+      <title>12×12</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>2352403</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1527661166628</id>
+      <title>14×14</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>2142149</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+    <published>2019-05-23T07:43:29-05:00</published>
+    <updated>2019-05-23T07:43:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-10oz-ceramic-diner-mug"/>
+    <title>RSR 10oz Ceramic Diner Mug</title>
+    <s:type>Coffee Gear</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr-mugs-all-white-bg.jpg?v=1559739986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Gear<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Put that great-tasting RSR coffee in a great-looking RSR diner mug! These mugs are sturdy as all get-out, and their vibrant colors really pop right alongside the amazing flavors inside the cup.</p>
+<p><strong>RSR Diner Mug at a Glance</strong></p>
+<ul>
+<li>3 vibrant colors: Blue, Green, Orange</li>
+<li>Sturdy, commercial-grade ceramic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee gear</s:tag>
+    <s:tag>coffee mugs</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Green</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-GRE</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Blue</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-BLU</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1360929456164</id>
+      <title>Orange</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>RSR1CDM-ORA</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+    <published>2019-03-28T17:04:17-05:00</published>
+    <updated>2019-03-28T17:04:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-white-logo-short-sleeve-t-shirt"/>
+    <title>RSR White Logo - Short Sleeve T-shirt</title>
+    <s:type>RSR Merch</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/IMB_3oED6m.GIF?v=1600098056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>RSR Merch<br>
+        <strong>Price: </strong>
+            22.50 - 25.50
+            <a href="https://www.rossstreetroasting.com/products/rsr-white-logo-short-sleeve-t-shirt">(63 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rep your RSR love with this this tri-blend fabric t-shirt that creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable.<br> <br> • Tri-blend construction (50% polyester/25% combed ring-spun cotton/25% rayon) <br> • 40 singles thread weight<br> • Comfortable and durable<br> • Contemporary fit<br> • Lightweight
+<p><strong>Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+<td><strong>2XL</strong></td>
+<td><strong>3XL</strong></td>
+<td><strong>4XL</strong></td>
+</tr>
+<tr>
+<td><strong>Length (inches)</strong></td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
+<td>34</td>
+</tr>
+<tr>
+<td><strong>Width (inches)</strong></td>
+<td>16 ½</td>
+<td>18</td>
+<td>20</td>
+<td>22</td>
+<td>24</td>
+<td>26</td>
+<td>28</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9901319</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>7613134</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>7847175</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8721955</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>4779837</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>9465444</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Charcoal Black Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>2638990</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1497504</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1898790</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1684082</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>3094044</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>7089468</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>2594721</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Brown Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>7584552</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1630207</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1188428</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1681609</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>3374661</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5663300</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>6648842</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Teal Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>6802948</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1880194</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>6548126</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8215571</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>6828167</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>4982165</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>3312262</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>True Royal Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>1587083</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9387675</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8988913</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>1488403</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>7000810</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>6836089</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>9210358</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Purple Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>1780648</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8837607</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9498841</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>6477635</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9467814</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9687270</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>7159244</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Maroon Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>2842476</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5350570</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>3808086</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8645424</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>6230764</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9356213</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>6860996</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Blue Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>3058931</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>4338378</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>9173258</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>3646015</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>3726054</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>8162171</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>4134418</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Aqua Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>9726865</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / XS</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5942265</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / S</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5631670</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / M</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5991915</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / L</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>4779872</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / XL</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>5130511</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / 2XL</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>2469550</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219017408548</id>
+      <title>Red Triblend / 3XL</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>4247687</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+    <published>2019-03-28T16:57:12-05:00</published>
+    <updated>2019-03-28T16:57:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-full-color-logo-short-sleeve-t-shirt"/>
+    <title>RSR Full Color Logo - Short Sleeve T-Shirt</title>
+    <s:type>RSR Merch</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/mockup-1977a539.jpg?v=1553810227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>RSR Merch<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.rossstreetroasting.com/products/rsr-full-color-logo-short-sleeve-t-shirt">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rep your RSR love with a a tri-blend fabric t-shirt that creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. In addition to the full-color RSR logo on the front, "Roasted in Iowa" appears on the left sleeve. #iowacoffee!<br> <br> • Tri-blend construction (50% polyester/25% combed ring-spun cotton/25% rayon) <br> • 40 singles thread weight<br> • Comfortable and durable<br> • Contemporary fit<br> • Lightweight
+<p><strong>Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+<td><strong>2XL</strong></td>
+<td><strong>3XL</strong></td>
+</tr>
+<tr>
+<td><strong>Length (inches)</strong></td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+<td>33</td>
+</tr>
+<tr>
+<td><strong>Width (inches)</strong></td>
+<td>16 ½</td>
+<td>18</td>
+<td>20</td>
+<td>22</td>
+<td>24</td>
+<td>26</td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>9278159</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>9705541</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>6708140</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>5181068</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8540341</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>2XL</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>5223774</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1219001712676</id>
+      <title>3XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>3076328</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1075701514276</id>
+    <published>2018-12-31T23:34:08-06:00</published>
+    <updated>2018-12-31T23:34:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-text-logo-trucker-cap"/>
+    <title>RSR Text Logo - Trucker Cap</title>
+    <s:type>RSR Merch</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/mockup-5e2ba0c3.jpg?v=1546026000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>RSR Merch<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This six-panel trucker cap with the RSR text logo and a mesh back is a comfy and classic choice for a perfect day in the sun. <br> <br> • Structured, mid-profile, six-panel cap<br> • 47/25/28 cotton/polyester/nylon<br> • Hard buckram front panels<br> • Mesh back<br> • Permacurv visor, matching under-visor<br> • Plastic adjustable closure<br> • 3-1/2" crown<br> • Head circumference - 21 5/8" to 23 5/8"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1075701514276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>7517108</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+    <published>2018-12-31T23:33:49-06:00</published>
+    <updated>2018-12-31T23:33:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/rsr-logo-lightweight-zip-up-hoodie-unisex"/>
+    <title>RSR Logo - Lightweight Zip-Up Hoodie (Unisex)</title>
+    <s:type>RSR Merch</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/mockup-09080b9a.jpg?v=1549299715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>RSR Merch<br>
+        <strong>Price: </strong>
+            28.50 - 36.50
+            <a href="https://www.rossstreetroasting.com/products/rsr-logo-lightweight-zip-up-hoodie-unisex">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For when you get chilly on a summer evening by the lake, or simply need something comfy to throw on, this lightweight unisex zip hoodie with a modern fit, hood, front zip, and a kangaroo pocket is the way to go.<br> <br> • 50% polyester, 25% airlume combed and right-spun cotton, 25% rayon<br> • Unisex fit<br> • Hooded<br> • Kangaroo pocket<br> • Side seamed<br> <br> For men, we suggest ordering a size up from your usual size.<br>
+<p><strong>Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+<td><strong>2XL</strong></td>
+</tr>
+<tr>
+<td><strong>Chest to Fit (inches)</strong></td>
+<td>31-34</td>
+<td>34-37</td>
+<td>38-41</td>
+<td>42-45</td>
+<td>46-49</td>
+<td>50-53</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / 2XL</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>1545746</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / XS</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>5750712</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / S</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>6536043</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / M</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>2032174</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / L</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>8770288</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Solid Black Triblend / XL</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>4325779</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / XS</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>1259256</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / S</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>5182184</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / M</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>4163308</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / L</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>4770113</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / XL</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>8021358</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Charcoal black Triblend / 2XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>3569088</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / XS</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>7661330</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / S</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>1278868</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / M</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>5101270</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / L</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>7636615</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / XL</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>6031670</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1063717863460</id>
+      <title>Grey Triblend / 2XL</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>3095096</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+  </entry>
+</feed>

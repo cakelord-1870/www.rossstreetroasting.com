@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/relationship-coffee.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2021-03-26T16:54:24-05:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+    <published>2021-03-26T16:54:24-05:00</published>
+    <updated>2021-03-26T16:54:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/family-tradition-brazilian-coffee-seibt-family-farm-cerrado-mineiro-region"/>
+    <title>Family Tradition - Brazilian Coffee, Seibt Family Farm, Cerrado Mineiro Region</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_FamilyTradition_900x900_2af7b671-ecdb-4f71-8214-b75a816693a1.png?v=1615214871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/family-tradition-brazilian-coffee-seibt-family-farm-cerrado-mineiro-region">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">About Seibt Family Farm's Coffee</span><br>
+<ul>
+<li>Roast level: Medium-Dark</li>
+<li>Origin: Seibt Family Farm, Cerrado Mineiro Region, Brazil</li>
+<li>Elevation: 900 masl / 3000 ft</li>
+<li>Sourcing partner: Ga<span data-mce-fragment="1">ú</span>cha Specialty Coffee, West Des Moines, Iowa</li>
+</ul>
+<p>Caroline Seibt grew up a second-generation farmer in Minas Gerais, southeastern Brazil. Her father, Rogério, started In addition to corn, soybeans, dairy, and beef, Caroline's father Rogério started growing coffee. Matthew Kruse grew up an Iowa farm boy whose father got into international ag commodities trading during the US farm crisis in the 1980s, which got his family involved in business in Brazil.</p>
+<p>Years later, Caroline's &amp; Matthew's paths crossed and they started a life together, eventually splitting time between their respective homes and family business interests in Brazil &amp; Iowa.</p>
+<p>Caroline had a dream to bring her family's coffee directly to the United States market, and Gaúcha Specialty Coffee was born. Since they live part-time in Iowa and Iowa is a small place, it wasn't long before Matthew reached out to our founder Brian and the RSR-Ga<meta charset="utf-8"><span data-mce-fragment="1">ú</span>cha partnership began to take shape, resulting in this single origin, direct relationship offering.</p>
+<p>RSR is located in a rural, agricultural area, working in the global agricultural trade of specialty coffee, so we're proud to offer this direct relationship coffee that's the result of combined family farming traditions that span a hemisphere.</p>
+<p>In addition to this single origin offering, this coffee appears in multiple blends in our product lineup!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-WB-12OZ</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>BRAFTSFF-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>BRAFTSFF-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>BRAFTSFF-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BRAFTSFF-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/6562256683190</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>BRAFTSFF-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+    <published>2020-10-09T16:18:44-05:00</published>
+    <updated>2020-10-09T16:18:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/gold-mountain-sample-flight-direct-relationship-nicaraguan-coffees"/>
+    <title>Gold Mountain Sample Flight - 3 Direct Relationship Nicaraguan Coffees</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_flight_Nicaragua2_900x900_8ff4b634-c459-440a-be69-e88b03676bee.jpg?v=1602278086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Bundle &amp; Save! </h3>
+<p>Sample all 3 of our direct relationship Nicaraguan coffees from Gold Mountain Coffee Growers. This is our longest-term coffee sourcing partner, and we're proud to have built such a strong relationship with them that's included multiple trips to their farms and processing facilities. </p>
+<h3>Included in the flight</h3>
+<ul>
+<li>
+<strong><a title="Roger &amp; Isabel's Fruit Symphony - Nicaraguan single farm light roast coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast">Roger &amp; Isabel's Fruit Symphony</a></strong> - This single farm, natural process coffee packs an incredibly sweet flavor profile! </li>
+<li>
+<a title="Sweet Honey Ross - Honey-Processed Single Farm Nicaraguan Coffee" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/sweet-honey-ross-finca-idealista-nicaragua"><strong>Sweet Honey Ross</strong></a> - A honey-processed coffee from a single farm: Finca Idealista, the farm where our tree frog mascot (Ross) hails from. Mango &amp; Apple, Sweet &amp; Smooth</li>
+<li>
+<a title="Nicaragua Divine Inspiration - Light-Medium Roast" href="https://www.rossstreetroasting.com/collections/single-origin-coffee/products/nicaragua-divine-inspiration-direct-trade-coffee"><strong>Divine Inspiration</strong></a> - Our year-round offering, with coffees sourced from multiple smallholder farms in the Jinotega region just north of Matagalpa. An easy drinker that belies a delicious well-balanced blend of fruit &amp; chocolate notes</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Whole Bean</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4248699043972</id>
+      <title>Ground (Medium/Drip coffee makers)</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GOLMSF-1-WB</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+    <published>2020-10-09T16:13:56-05:00</published>
+    <updated>2020-10-09T16:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast"/>
+    <title>Roger &amp; Isabel&apos;s Fruity Symphony - Single Farm Nicaraguan Light Roast</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_FruitSymphony_900x900_5c5ed394-9776-45df-92d2-065c7126a93a.png?v=1602277303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            9.90 - 94.50
+            <a href="https://www.rossstreetroasting.com/products/roger-isabel-fruity-symphony-single-farm-nicaraguan-light-roast">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This delightful single-farm coffee is referred to as "tutty fruity" by the matriarch of the farm's owners, Dońa Isabel. Here's why...<br></p>
+<h3>About Roger &amp; Isabel's Fruit Symphony</h3>
+<ul>
+<li>Tasting notes: Pineapple, mango, guava, &amp; honey</li>
+<li>Origin: Nicaragua, Matagalpa region</li>
+<li>Farm: Don Roger &amp; Dońa Isabel</li>
+<li>Elevation: 1330 masl (~4,360 ft)</li>
+<li>Tree varieties: Caturra, Bourbon, Pache, Javanica, Geisha</li>
+<li>Processing method: Natural / Dry</li>
+<li>Harvest Season: December - February</li>
+<li>Current harvest: 2020-21, Arrived in US Sept. 2019</li>
+<li>Sourcing: <a title="Gold Mountain Coffee Growers - Direct Trade Specialty Coffee from Nicaragua" href="https://www.goldmountaincoffeegrowers.com/" target="_blank" data-mce-href="https://www.goldmountaincoffeegrowers.com/">Gold Mountain Coffee Growers</a> (Direct Trade)</li>
+</ul>
+<h3>About the Farm</h3>
+<p><meta charset="utf-8"><span>Don Roger has a </span><span>degree in agronomy and he loves sharing </span><span>technical knowledge and tips with visiting </span><span>roasters. Their farm has a clean water source </span><span>that supplies the community below with </span><span>drinking water. Further, the farm has a special </span><span>system of PVC tubing with tiny perforations </span><span>underneath the groves of trees so that runoff </span><span>from washing coffee is filtered by the earth </span><span>instead of polluting streams. They use special </span><span>pruning techniques, training their Bourbon next </span><span>to their plot of Caturra.</span></p>
+<h3><span>About Gold Mountain Coffee Growers</span></h3>
+<p><span>GMCG is a social enterprise that, in addition to its own farm (Finca Idealista, home of Sweet Honey Ross), works directly with coffee producers in Nicaragua, including Roger &amp; Isabel, to connect them directly with roasters like us. GMCG is on the ground, all the time, teaming up with producers willing to take the steps necessary to produce high-cupping Specialty Coffee. They stand (literally) on every partner farm during picking season to ensure ripeness with specialized equipment. GMCG also carries out sustainable development projects in communities, such as free computing classes for girls from coffee communities, medical assistance, microcredit, running water in schools, and educational supplies. </span></p>
+<p><span>2020 marks our 6th harvest year purchase from Gold Mountain, and we've visited their lovely area twice since our founding. We are more than proud and thrilled to bring this incredibly unique "direct relationship" coffee to our customers and coffee lovers. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICRIFS-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICRIFS-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICRIFS-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICRIFS-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/5806700101782</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICRIFS-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/9296792656</id>
+    <published>2020-10-06T08:35:45-05:00</published>
+    <updated>2020-10-06T08:35:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/sweet-honey-ross-finca-idealista-nicaragua"/>
+    <title>Sweet Honey Ross - Single Farm Direct Relationship Light Roast Nicaraguan Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_SweetHoneyRoss_900x900_b381c3c6-3fbe-437b-9f4f-fe04c398ab0a.jpg?v=1571327016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            9.90 - 94.50
+            <a href="https://www.rossstreetroasting.com/products/sweet-honey-ross-finca-idealista-nicaragua">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Rbir3tJebA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h3>
+<h3>"Mango, Apple, Sweet &amp; Smooth"</h3>
+<p><strong>Ross</strong> is the name of the frog mascot in our logo, and the original photo that inspired that artwork was taken on the very farm that this coffee hails from: Finca Idealista! So we wanted to honor that storied lineage with a sweet coffee from that farm, and to celebrate the multi-year relationship we have with our longest direct relationship producer, Gold Mountain Coffee Growers.</p>
+<h3>
+<strong></strong>About Sweet Honey Ross</h3>
+<ul>
+<li>Tasting notes: Mango, apple, brown sugar, light-medium body, sweet, easy drinking cup</li>
+<li>Origin: Nicaragua, Matagalpa region</li>
+<li>Farm: Finca Idealista ("Idealist Farm")</li>
+<li>Elevation: 1200 masl (3,937 ft)</li>
+<li>Tree varieties: Caturra</li>
+<li>Processing method: Honey Process</li>
+<li>Harvest Season: December - February</li>
+<li>Current harvest: 2020-21, Arrived in US Sept. 2019</li>
+<li>Sourcing: <a href="http://www.goldmountaincoffeegrowers.com/" title="Gold Mountain Coffee Growers - Nicaragua" target="_blank">Gold Mountain Coffee Growers</a> (Direct Trade)</li>
+</ul>
+<p><strong>Honey Processing</strong> is an alternative method of preparing coffees for export, before they make their way to roasters like us. This process results in a generally sweeter cup of coffee and it's proven to be quite popular with our customers. First offered in our first year of business, we're excited to bring it back again for 2019-20!</p>
+<h3>About the Farm: Finca Idealista</h3>
+<p style="float: right;"><img alt="" src="//cdn.shopify.com/s/files/1/1505/8342/files/gold-mountain-logo_medium.png?v=1516207742" style="float: right;">Finca Idealista is the flagship farm of our Direct Trade partner, <strong>Gold Mountain Coffee Growers</strong>. It sits on a mountaintop that borders a nature reserve, whose trees act as a natural air conditioner for its Paca &amp; Caturra variety coffee beans. This cool microclimate lengthens the coffee cherry maturity process, allowing beans more time to absorb natural sugars and other attributes that contribute to a rounded cup profile.<br><br>Finca Idealista workers receive the <strong>highest wages</strong> around. Local pickers are trained to pick only the reddest cherries so that the farm’s crop reaches its full potential and highest level of sweetness. Extraordinary care is taken, both during wet and dry processing, to inspect all beans and ensure that only the finest, ripest coffee is exported. In addition to washed coffee, the farm has invested in special infrastructure to increase production of natural and honey process coffee, with outstanding cupping results.</p>
+<p>Finca Idealista invests in volcanic filters to <strong>protect the environment</strong> from run-off when coffee is washed. The volcanic material is brought from Masaya, one of Nicaragua’s volcanic regions. Gold Mountain recently purchased an adjacent section of <strong>rainforest</strong> for the sole purpose of protecting its flora and fauna.</p>
+<p>In addition to its focus on quality, Finca Idealista supports the growth and development of the community through <strong>educational supplies</strong> and <strong>running water for schools</strong>, <strong>scholarships</strong> and <strong>medical supplies</strong>, <strong>free computing classes for girls</strong>, and new initiatives based on needs assessment.</p>
+<p>Its partner organization, Gold Mountain Cofffee Growers, LLC, won the 2016 <strong>SCAE Sustainability Award </strong>for joint economic and environmental achievements.</p>
+<p><em>Learn more about <a href="http://www.goldmountaincoffeegrowers.com/" target="_blank">Gold Mountain Coffee Growers</a>/@goldmtncoffee (<a href="https://www.instagram.com/goldmtncoffee/" target="_blank">Instagram</a>, <a href="https://twitter.com/goldmtncoffee" target="_blank">Twitter</a>, <a href="https://www.facebook.com/goldmtncoffee" target="_blank">Facebook</a>)</em></p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Beans</s:tag>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Finca Idealista</s:tag>
+    <s:tag>Honey Process</s:tag>
+    <s:tag>Light Roast</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">20.70</s:price>
+      <s:sku>NICFI-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICFI-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>NICFI-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>NICFI-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296792656</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">94.50</s:price>
+      <s:sku>NICFI-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/417874706468</id>
+    <published>2020-06-05T08:51:22-05:00</published>
+    <updated>2020-06-05T08:51:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/kula-peaberry-papua-new-guinea"/>
+    <title>Kula Peaberry - Papua New Guinea Light-Medium Roast Relationship Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_KulaPeaberry_900x900_0c70132f-e0a0-4c19-a1ff-9b08f7a3b1f6.jpg?v=1561650010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            7.00 - 72.00
+            <a href="https://www.rossstreetroasting.com/products/kula-peaberry-papua-new-guinea">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3> Kula Peaberry at a glance</h3>
+<ul>
+<li>Benefits:</li>
+<ul>
+<li>Earthy note adds accessibility for "regular coffee drinkers," while also showcasing bolder, fruitier notes</li>
+<li>Direct Trade sourcing benefits producers, farm laborers, and their families &amp; communities (see more below)</li>
+</ul>
+<li>Tasting notes: Sweet aroma, chocolate &amp; raisin/dried fruit notes, earthy, med-heavy body, syrupy mouthfeel</li>
+<li>Roast color: Light-Medium</li>
+<li>Country: Papua New Guinea</li>
+<li>Region: Waghi Valley</li>
+<li>Farm: Sigri Estate</li>
+<li>Tree variety: Predominantly Typica</li>
+<li>Elevation: 1,500-1,600 masl (5,000-5,200 ft)</li>
+<li>Soil type: Volcanic</li>
+<li>Harvest season: April - September</li>
+<li>Current harvest: Arrived in US Fall 2018</li>
+<li>Sourcing: <a href="http://benchmarkcoffeetraders.com/" target="_blank" title="Benchmark Coffee Traders - Papua New Guinea" rel="noopener noreferrer">Benchmark Coffee Traders</a> (Direct Trade)</li>
+</ul>
+<meta charset="utf-8">
+<p>Papua New Guinea is an island nation north of Australia, and positioned at the end of a string of islands coming off the southeastern tip of the Asian continent. PNG has not been well-known for high-quality Specialty Coffee production, but our Direct Trade partner there, Benchmark Coffee Traders, recognized an opportunity to produce higher-end coffees on the Sigri estate that benefit producers by selling into higher-end coffee markets abroad.</p>
+<meta charset="utf-8">
+<p>"Peaberry" is a word that refers to the coffee bean itself - Normally, coffee cherries produce two seeds per cherry. "Peaberries" are so-named due to a genetic mutation where only a single seed grows in the cherry, producing a smaller, rounder, denser coffee seed/bean. If a producer so chooses, peaberries are separated from all the "normal" seeds and sold as a lot. Peaberry beans display slightly different flavor characteristics from beans grown even on the same tree.</p>
+<p>"Kula" refers to the special sorting &amp; processing method used by Benchmark Coffee Traders to ensure a high-quality flavor profile.</p>
+<h3>About Benchmark Coffee Traders</h3>
+<p style="float: right;"><img alt="" src="//cdn.shopify.com/s/files/1/1505/8342/files/benchmark-coffee_medium.jpg?v=1516204304" style="float: right;">Our Direct Trade partner in PNG, Benchmark Coffee Traders, distributes high quality green coffees from the Sigri Estate in Papua New Guinea. They have direct family ties with these coffee producers and work closely with them to bring their beautiful coffees to roasters like us in North America.<br><br>Benchmark supports a strong social agenda that provides <strong>free housing, free healthcare, and free schooling</strong> to the coffee pickers and farmers who work tirelessly to help produce these unique coffees.<br><br>We are proud to be partnering with Benchmark for the first time in 2018, and look forward to a fruitful relationship in the future!</p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Beans</s:tag>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Fresh Coffee Beans</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:tag>Papua New Guinea</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (Drip/med)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (Espresso/fine)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (Drip/med)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>PAPNGSKP-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>12oz / Ground (French Press/coarse)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>PAPNGSKP-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>2lb / Ground (Drip/med)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>PAPNGSKP-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>PAPNGSKP-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/417874706468</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>PAPNGSKP-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/9296873232</id>
+    <published>2017-10-22T13:57:01-05:00</published>
+    <updated>2017-10-22T13:57:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/nicaragua-divine-inspiration-relationship-coffee"/>
+    <title>Divine Inspiration - Nicaraguan Light-Medium Roast Relationship Coffee</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/rsr_120z_DivineInspiration_900x900_a24e81a4-a42a-4819-a8ee-c75fd76beb5e.jpg?v=1567800743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            6.00 - 73.00
+            <a href="https://www.rossstreetroasting.com/products/nicaragua-divine-inspiration-relationship-coffee">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>2020-21 Crop Now Available!</strong></p>
+<p><strong></strong>Divine Inspiration is a coffee produced by a community of coffee growers in the Jinotega region of Nicaragua. We have sourced coffee for Divine Inspiration from producers in Matagalpa &amp; Jinotega since our founding in 2015, and have made multiple visits to partner-farmer families to see firsthand the level of care they put into growing this delicious coffee.</p>
+<p>On our January 2019 origin visit, YouTuber <a href="https://www.youtube.com/channel/UCvQpt5aP8DG-qXBIE7C7aSA" title="Farmer Derek Klingenberg - YouTube channel" target="_blank">Farmer Derek Klingenberg</a> came with us and produced this amazing video. And Divine Inspiration is his favorite coffee!</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/sgYoxg07sLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>This is "relationship coffee" at its best, and we've come to know and love the partner-farmers of Divine Inspiration. As the harvest years progress and our coffee purchases from Gold Mountain Coffee Growers expand, our relationship continues to become a thing of "Divine Inspiration."</p>
+<h3>Divine Inspiration at a glance</h3>
+<ul>
+<li>Flavor notes: Chocolate, spiced apple, nutty</li>
+<li>Roast level: Light-Medium</li>
+<li>Benefits: Direct relationship coffee with a single coffee-growing community, supported by periodic fundraising for community and economic development</li>
+<li>Recommended brewing method: Drip coffee, Espresso</li>
+<li>Origin: Nicaragua, Jinotega region</li>
+<li>Farms: Multiple smallholder farms in the region</li>
+<li>Processing method: Washed</li>
+<li>Harvest season: December - March</li>
+<li>Current harvest: 2020-21, Arrived in US Sept 2020</li>
+<li>Sourcing: <a href="http://www.goldmountaincoffeegrowers.com/" title="Gold Mountain Coffee Growers - Nicaragua" target="_blank">Gold Mountain Coffee Growers</a> (Direct Trade)</li>
+</ul>
+<h3>About Gold Mountain Coffee Growers</h3>
+<p style="float: right;"><img alt="" src="//cdn.shopify.com/s/files/1/1505/8342/files/gold-mountain-logo_medium.png?v=1516207742" style="float: right;">Gold Mountain Coffee Growers is a direct trade <strong>social enterprise</strong> that connects farmers of high-cupping specialty coffee with coffee roasters. They have their own coffee farm (Finca Idealista) in Nicaragua and export coffee themselves to their North American warehouse.<br><br>Gold Mountain treats its own farm and partner producers’ farms like fine wine vineyards to maintain a thriving social enterprise and ensure the highest cup quality. They employ a ripeness team during harvest season, equipped with refractometers and special ripeness wristbands, supervising pickers’ baskets for maximum ripeness of coffee cherries. The result is excellent-cupping coffee.<br><br>Gold Mountain partner farmers receive microcredit and larger loans as well as technical assistance. With this empowerment, they increase yields, expand their farms, invest in processing equipment, and provide for their families. They work with communities on projects including <strong>running water</strong> and l<strong>ibraries in schools</strong> and <strong>electricity in homes</strong>. They recently bought a section of rainforest adjacent to their own farm to protect endangered species there. These and more projects are sustained through excellent-cupping specialty coffee.</p>
+<p>Gold Mountain Coffee Growers were the winner of the <strong><a href="http://scae.com/news-and-events/world-of-coffee/excellence-awards" target="_blank">2016 Sustainability Award</a></strong> from the Specialty Coffee Association of Europe (now the <a href="https://sca.coffee/" target="_blank">SCA</a>)</p>
+<p><em>Photo credits: <a href="http://www.goldmountaincoffeegrowers.com/" target="_blank">Gold Mountain Coffee Growers</a>/@goldmtncoffee (<a href="https://www.instagram.com/goldmtncoffee/" target="_blank">Instagram</a>, <a href="https://twitter.com/goldmtncoffee" target="_blank">Twitter</a>, <a href="https://www.facebook.com/goldmtncoffee" target="_blank">Facebook</a>)</em> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Beans</s:tag>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>Divine Inspiration</s:tag>
+    <s:tag>Fresh Coffee Beans</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Nicaragua</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>NICDI-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>12oz / Ground (Drip/med)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>NICDI-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>12oz / Ground (Espresso/fine)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>NICDI-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>12oz / Ground (French Press/coarse)</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>NICDI-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>NICDI-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>2lb / Ground (Drip/med)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>NICDI-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>2lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>NICDI-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>2lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>NICDI-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>NICDI-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5lb / Ground (Drip/med)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>NICDI-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5lb / Ground (Espresso/fine)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>NICDI-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5lb / Ground (French Press/coarse)</title>
+      <s:price currency="USD">73.00</s:price>
+      <s:sku>NICDI-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5oz / Whole Bean</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>NICDI-WB-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/9296873232</id>
+      <title>5oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>NICDI-DR-5OZ</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

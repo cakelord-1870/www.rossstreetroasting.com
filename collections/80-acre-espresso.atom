@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.rossstreetroasting.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.rossstreetroasting.com/collections/80-acre-espresso.atom"/>
+  <title>Ross Street Roasting Co.</title>
+  <updated>2019-11-28T08:46:18-06:00</updated>
+  <author>
+    <name>Ross Street Roasting Co.</name>
+  </author>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+    <published>2019-11-28T08:46:18-06:00</published>
+    <updated>2019-11-28T08:46:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/the-front-40-contemporary-fruit-forward-espresso-roast"/>
+    <title>The Front 40 - Contemporary Fruit-Forward Roast for Espresso</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR-Bag-Front40-12OZ_6d353472-339d-40b2-a6ac-329930dc7cea.jpg?v=1600787034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            15.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/the-front-40-contemporary-fruit-forward-espresso-roast">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Front 40 exhibits a more contemporary (and lighter) roast profile for espresso to highlight fruit notes first, but still maintain enough nuttiness/chocolate for the shot to stand up in milk drinks. Despite what we call a "light-medium" roast color, this roast employs longer development times to even out the consistency of the blend and boost body &amp; sweetness in the cup.</p>
+<h3>The Front 40 at a glance</h3>
+<ul>
+<li>Notes: Tangy fruit, nutty, sweet, medium body</li>
+<li><strong>100% Relationship Coffee components</strong></li>
+<ul>
+<li>50% Papua New Guinea coffee from the Sigri Estate in the Waghi Valley region, farm of our Relationship Coffee partner, Benchmark Coffee Traders</li>
+<li>50% Brazil coffee from the Seibt Family Farm, Cerrado Mineiro region, Minas Gerais state, SE Brazil</li>
+<li><em>Relationship Coffees are close sourcing partnerships with coffee producers, helping ensure high-quality coffee and equitable pay for coffee laborers (<a title="Relationship Coffees at RSR" href="https://www.rossstreetroasting.com/collections/relationship-coffee">See all Relationship Coffees</a>)</em></li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>espresso</s:tag>
+    <s:tag>Light-Medium Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>ESPBPL-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ESPBPL-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/4376250777732</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>ESPBPL-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+    <published>2019-01-09T14:10:16-06:00</published>
+    <updated>2019-01-09T14:10:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.rossstreetroasting.com/products/back-40-northern-italian-roast-espresso"/>
+    <title>The Back 40 - Traditional Northern Italian Roast for Espresso</title>
+    <s:type>Coffee Beans</s:type>
+    <s:vendor>Ross Street Roasting Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1505/8342/products/RSR-Bag-Back40-12OZ.jpg?v=1600787071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ross Street Roasting Co.<br>
+        <strong>Type: </strong>Coffee Beans<br>
+        <strong>Price: </strong>
+            15.00 - 65.00
+            <a href="https://www.rossstreetroasting.com/products/back-40-northern-italian-roast-espresso">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>"(RSR) has definitely achieved a true-to-form classic espresso that...tastes really good and doesn’t have the burned, bitter notes often found on street-level espresso... Perfetto!" --KC Coffee Geek, <a href="https://www.kccoffeegeek.com/ross-street-roasting-co-dr-doolittles-espresso-classico/" title="Dr. Doolittle's Espresso Classico review - KC Coffee Geek" target="_blank">2017 Review</a></strong></em></p>
+<h3>The Back 40 at a glance</h3>
+<ul>
+<li>Benefits: A shot of espresso that stands up to milk but also tastes great on its own</li>
+<li>Tasting notes: Chocolate, sweet cherry, a touch smokey</li>
+<li><strong>100% Relationship Coffee Components</strong></li>
+<ul>
+<li>50% Papua New Guinea coffee from the Sigri Estate in the Waghi Valley region, farm of our Relationship Coffee partner, Benchmark Coffee Traders</li>
+<li>50% Brazil coffee from the Seibt Family Farm, Cerrado Mineiro region, Minas Gerais state, SE Brazil</li>
+<li><em>Relationship Coffees are close sourcing partnerships with coffee producers, helping ensure high-quality coffee and equitable pay for coffee laborers (<a title="Relationship Coffees at RSR" href="https://www.rossstreetroasting.com/collections/relationship-coffee">See all Relationship Coffees</a>)</em></li>
+</ul>
+</ul>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Direct Trade</s:tag>
+    <s:tag>espresso</s:tag>
+    <s:tag>Medium-Dark Roast</s:tag>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>12oz / Whole Bean</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRDEC-WB-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>12oz / Ground (Medium/Drip)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRDEC-DR-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>12oz / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRDEC-FP-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>12oz / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRDEC-ES-12OZ</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>2lb / Whole Bean</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>DRDEC-WB-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>2lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>DRDEC-DR-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>2lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>DRDEC-FP-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>2lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>DRDEC-ES-2LB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>5lb / Whole Bean</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>DRDEC-WB-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>5lb / Ground (Medium/Drip)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>DRDEC-DR-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>5lb / Ground (Coarse/French Press)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>DRDEC-FP-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.rossstreetroasting.com/products/1088711196708</id>
+      <title>5lb / Ground (Fine/Espresso)</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>DRDEC-ES-5LB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>
